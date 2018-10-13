@@ -4,6 +4,7 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
+    "markdown-it-attrs": "^2.3.2",
     "vuepress": "^0.14.4"
   }
 }

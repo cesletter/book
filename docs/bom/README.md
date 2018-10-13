@@ -1,4 +1,21 @@
-# Book of Mormon
+<RedTitleBar
+  title="Book of Mormon"
+  subtitle="Concerns & Questions"
+/>
+
+<QuoteWithReference
+  quote="...the Book of Mormon is the keystone of [our] testimony. Just as the arch crumbles if the keystone is removed, so does all the Church stand or fall with the truthfulness of the Book of Mormon."
+  attribution="President Ezra T. Benson"
+  source="The Book of Mormon - Keystone of Our Religion"
+  link="http://www.cesletter.org/bom/1"
+/>
+
+<QuoteWithReference
+  quote="...everything in the Church – everything – rises or falls on the truthfulness of the Book of Mormon and, by implication, the Prophet Joseph Smith’s account of how it came forth...It sounds like a 'sudden death' proposition to me. Either the Book of Mormon is what the Prophet Joseph said it is or this Church and its founder are false, fraudulent, a deception from the first instance onward."
+  attribution="President Jeffrey R. Holland"
+  source="True of False, New Era, June 1995""
+  link="http://www.cesletter.org/bom/2"
+/>
 
 ### 1
 

@@ -1,4 +1,4 @@
-# Dedication
-
-To my beautiful young children...
-that you may one day understand.
+<DedicationPage
+  line1="To my beautiful young children..."
+  line2="that you may one day understand."
+/>

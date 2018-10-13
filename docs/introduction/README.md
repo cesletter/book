@@ -1,4 +1,4 @@
-# Introduction
+<RedTitleBar title="Introduction" />
 
 [Name of CES Director Removed],
 
@@ -12,14 +12,12 @@ I've decided to put down in writing just about all the major concerns that I hav
 
 A quick description of my background might help you understand where I'm coming from. I was a very active and fully believing member my entire life up until around the summer of 2012. My grandpa already outlined my life events to you in his email so I think you get the idea that I accepted and embraced Mormonism.
 
-In February of 2012, I was reading the news online when I came across the following news article: http://www.cesletter.org/intro/1[Mormonism Besieged by the Modern Age]. In the article was information about a Q&A meeting at Utah State University that LDS Church Historian and General Authority, Elder Marlin K. Jensen, gave in late 2011. He was asked his thoughts regarding the effects of Google on membership and people who are "leaving in droves" over Church history.
+In February of 2012, I was reading the news online when I came across the following news article: [Mormonism Besieged by the Modern Age](http://www.cesletter.org/intro/1). In the article was information about a Q&A meeting at Utah State University that LDS Church Historian and General Authority, Elder Marlin K. Jensen, gave in late 2011. He was asked his thoughts regarding the effects of Google on membership and people who are "leaving in droves" over Church history.
 
 Elder Marlin K. Jensen's response:
 
-____
-Maybe since Kirtland, we've never had a period of – I'll call it apostasy, like we're having now; largely over these issues...
-____
+> Maybe since Kirtland, we've never had a period of – I'll call it apostasy, like we're having now; largely over these issues...
 
-This truly shocked me. I didn't understand what was going on or why people would leave "over history." I started doing research and reading books like LDS historian and scholar Richard Bushman's http://www.cesletter.org/intro/2[Joseph Smith: Rough Stone Rolling] and many others to try to better understand what was happening.
+This truly shocked me. I didn't understand what was going on or why people would leave "over history." I started doing research and reading books like LDS historian and scholar Richard Bushman's [Joseph Smith: Rough Stone Rolling](http://www.cesletter.org/intro/2) and many others to try to better understand what was happening.
 
 The following issues are among my main concerns.

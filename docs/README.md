@@ -1,8 +1,6 @@
-# CES LETTER
-
-MY SEARCH FOR ANSWERS
-TO MY MORMON DOUBTS
-
-JEREMY T. RUNNELLS
-
-April 2013, Updated October 2017
+<TitlePage
+  title="CES LETTER"
+  subtitle="MY SEARCH FOR ANSWERS TO MORMON DOUBTS"
+  author="Jeremy T. Runnels"
+  dates="April 2013, Updated October 2017"
+/>
