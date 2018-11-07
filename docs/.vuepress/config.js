@@ -18,7 +18,7 @@ module.exports = {
       ["/", "Title Page"],
       ["/dedication/", "Dedication"],
       ["/introduction/", "Introduction"],
-      "/bom/",
+      ["/bom/", "Book of Mormon"],
       "/bom-translation/",
       "/first-vision/",
       "/boa/",

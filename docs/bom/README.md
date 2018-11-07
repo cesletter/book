@@ -19,17 +19,21 @@
 
 ### 1
 
-What are 1769 King James Version edition https://cesletter.org/bom/3[errors] doing in the Book of Mormon? A purported ancient text? Errors which are unique to the 1769 edition that Joseph Smith owned?
+What are 1769 King James Version edition [errors](https://cesletter.org/bom/3) doing in the Book of Mormon? A purported ancient text? Errors which are unique to the 1769 edition that Joseph Smith owned?
 
 ### 2
 
 When King James translators were translating the KJV Bible between 1604 and 1611, they would occasionally put in their own words into the text to make the English more readable. We know exactly what these words are because they're italicized in the KJV Bible. What are these 17th century italicized words doing in the Book of Mormon? Word for word? What does this say about the Book of Mormon being an ancient record?
 
-ISAIAH 9:1 (KJV)
-Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
+<ScriptureQuote
+  reference="ISAIAH 9:1 (KJV)"
+  quote="Nevertheless the dimness **shall** not **be** such as *was* in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her **by** the way of the sea, beyond Jordan, in Galilee of the nations."
+/>
 
-2 NEPHI 19:1
-Nevertheless, the dimness shall not be such as was in her vexation, when at first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterwards did more grievously afflict by the way of the Red Sea beyond Jordan in Galilee of the nations.
+<ScriptureQuote
+  reference="2 NEPHI 19:1"
+  quote="Nevertheless, the dimness **shall** not **be** such as *was* in her vexation, when at first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterwards did more grievously afflict **by** the way of the **Red** Sea beyond Jordan in Galilee of the nations."
+/>
 
 The above example, https://www.cesletter.org/bom/4[2 Nephi 19:1], dated in the Book of Mormon to be around 550 BC, quotes nearly verbatim from the 1611 AD translation of https://www.cesletter.org/bom/5[Isaiah 9:1 KJV] – including the translators’ italicized words. Additionally, the Book of Mormon describes the sea as the Red Sea. The problem with this is that (a) Christ quoted Isaiah in https://www.cesletter.org/bom/6[Matt. 4:14-15] and did not mention the Red Sea, (b) “Red” sea is not found in any source manuscripts, and (c) the Red Sea is 250 miles away.
 

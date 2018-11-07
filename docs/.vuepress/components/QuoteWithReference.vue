@@ -5,11 +5,10 @@
     </p>
     <footer>
       &mdash; {{attribution}}<span v-if="source">,</span>
-        <a v-if="link" :href="link" class="italic">{{source}}</a>
-        <span v-else class="italic">{{source}}</span>
-      </span>
+      <a v-if="link" :href="link" class="italic">{{source}}</a>
+      <span v-else class="italic">{{source}}</span>
     </footer>
-  </blockquote> 
+  </blockquote>
 </template>
 
 <script>
@@ -23,7 +22,7 @@ blockquote{
   color: #666;
   font-size: 1rem;
   margin: 0.5rem, 1rem;
-  quotes: "\201C""\201D""\2018""\2019";
+  quotes: "“" "‘" "”" "’";
   line-height: 1rem;
   border-left: none;
 }

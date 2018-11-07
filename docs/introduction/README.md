@@ -16,7 +16,9 @@ In February of 2012, I was reading the news online when I came across the follow
 
 Elder Marlin K. Jensen's response:
 
-> Maybe since Kirtland, we've never had a period of – I'll call it apostasy, like we're having now; largely over these issues...
+<IndentedQuote
+  quote="Maybe since Kirtland, we've never had a period of – I'll call it apostasy, like we're having now; largely over these issues..."
+/>
 
 This truly shocked me. I didn't understand what was going on or why people would leave "over history." I started doing research and reading books like LDS historian and scholar Richard Bushman's [Joseph Smith: Rough Stone Rolling](http://www.cesletter.org/intro/2) and many others to try to better understand what was happening.
 
