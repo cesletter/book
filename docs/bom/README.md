@@ -35,13 +35,17 @@ When King James translators were translating the KJV Bible between 1604 and 1611
   quote="Nevertheless, the dimness **shall** not **be** such as *was* in her vexation, when at first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterwards did more grievously afflict **by** the way of the **Red** Sea beyond Jordan in Galilee of the nations."
 />
 
-The above example, https://www.cesletter.org/bom/4[2 Nephi 19:1], dated in the Book of Mormon to be around 550 BC, quotes nearly verbatim from the 1611 AD translation of https://www.cesletter.org/bom/5[Isaiah 9:1 KJV] – including the translators’ italicized words. Additionally, the Book of Mormon describes the sea as the Red Sea. The problem with this is that (a) Christ quoted Isaiah in https://www.cesletter.org/bom/6[Matt. 4:14-15] and did not mention the Red Sea, (b) “Red” sea is not found in any source manuscripts, and (c) the Red Sea is 250 miles away.
+The above example, [2 Nephi 19:1](https://www.cesletter.org/bom/4), dated in the Book of Mormon to be around 550 BC, quotes nearly verbatim from the 1611 AD translation of [Isaiah 9:1 KJV](https://www.cesletter.org/bom/5) – including the translators’ italicized words. Additionally, the Book of Mormon describes the sea as the Red Sea. The problem with this is that (a) Christ quoted Isaiah in [Matt. 4:14-15](https://www.cesletter.org/bom/6) and did not mention the Red Sea, (b) “Red” sea is not found in any source manuscripts, and (c) the Red Sea is 250 miles away.
 
-MALACHI 3:10 (KJV)
-...and pour you out a blessing, that there shall not be room enough to receive it.
+<ScriptureQuote
+  reference="MALACHI 3:10 (KJV)"
+  quote="...and pour you out a blessing, that **there shall** not **be room** enough **to receive it**."
+/>
 
-3 NEPHI 24:10
-...and pour you out a blessing that there shall not be room enough to receive it.
+<ScriptureQuote
+  reference="3 NEPHI 24:10"
+  quote="...and pour you out a blessing that **there shall** not **be room** enough **to receive it**."
+/>
 
 In the above example, the KJV translators added 7 italicized words to their English translation, which are not found in the source Hebrew manuscripts. Why does the Book of Mormon, which is supposed to have been completed by Moroni over 1,400 years prior, contain the exact identical seven italicized words of 17th century translators?
 
