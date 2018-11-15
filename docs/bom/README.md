@@ -197,6 +197,226 @@ _UPDATE_: Additional information and analysis can be found at [cesletter.org/cum
 
 There was a book published in 1823 Vermont entitled _[View of the Hebrews](https://www.cesletter.org/bom/33)_. Below is a chart comparing the _View of the Hebrews_ to the Book of Mormon:
 
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>
+        <h3>View of the Hebrews</h3>
+        <a href="https://www.cesletter.org/bom/34">Online Source</a>
+      </th>
+      <th>
+        <h3>Book of Mormon</h3>
+        <a href="https://www.cesletter.org/bom/35">Online Source</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle" style="width: 40%;">Published</td>
+      <td valign="middle" style="text-align: center; width: 30%;">
+        1823, first edition<br/>
+        1825, second edition
+      </td>
+      <td valign="middle" style="text-align: center; width: 30%;">
+        1830, first edition
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Location</td>
+      <td valign="middle" style="text-align: center;">
+        Vermont<br/>
+        Poultney, Rutland County<br/><br/>
+        NOTE: Oliver Cowdery, one of the Book of Mormon witnesses, lived in
+        Poutlney when <strong>View of the Hebrews</strong> was published.
+      </td>
+      <td valign="middle" style="text-align: center;">
+        Vermont<br/>
+        Sharon, Windsor County<br/><br/>
+        NOTE: Windor County is adjacent to Rutland County.
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">The destruction of Jerusalem</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">The scattering of Israel</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">The restoration of the Ten Tribes</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Hebrews leave the Old World for the New World</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Religion a motivating factor</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Migrations a long journey</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Encounter “seas” of “many waters”</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">The Americas an uninhabited land</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Settlers journey northward</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Encounter a valley of a great river</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">A unity of race (Hebrew) settle the land and are the ancestral origin of American Indians</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Hebrew the origin of Indian language</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Egyptian hieroglyphics</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">Lost Indian records</td>
+      <td valign="top" style="text-align: center;">
+        &#10004;<br/><br/>
+        A set of “yellow leaves” buried in Indian hill. Elder B.H. Roberts noted the “leaves” may be gold.
+      </td>
+      <td valign="top" style="text-align: center;">
+        &#10004;<br/><br/>
+        Joseph Smith claimed the gold plates were buried in Hill Cumorah.
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Breastplate, Urim & Thummim</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">Prophets, spiritually gifted men transmit generational records</td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+      <td valign="middle" style="text-align: center;">
+        &#10004;
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">A man standing on a wall warning the people saying, “Wo, wo to this city...to this people” while subsequently being attacked.</td>
+      <td valign="top">
+        <div style="text-align: center;">
+          &#10004;<br/><br/>
+        </div>
+        Jesus, son of Ananus, stood on the wall saying “Wo, wo to this city, this temple, and this people.”
+        <ul>
+          <li>Came to preach for many days</li>
+          <li>Went upon a wall</li>
+          <li>Cried with a loud voice</li>
+          <li>Preached of destruction of Jerusalem</li>
+          <li>Had stones cast at him</li>
+        </ul>
+        <a href="https://www.cesletter.org/bom/36" target="_blank">(View of Hebrews, p.20)</a>
+      </td>
+      <td valign="top" style="text-align: left;">
+        <div style="text-align: center;">
+          &#10004;<br/><br/>
+        </div>
+        Samuel the Lamanite stood on the wall saying “Wo, wo to this city” or “this people”.
+        <ul>
+          <li>Came to preach for many days</li>
+          <li>Went upon a wall</li>
+          <li>Cried with a loud voice</li>
+          <li>Preached of destruction of Nephites</li>
+          <li>Had stones cast at him</li>
+        </ul>
+        <a href="https://www.cesletter.org/bom/37" target="_blank">(Helaman 13-16)</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 9
 
 ### 10
