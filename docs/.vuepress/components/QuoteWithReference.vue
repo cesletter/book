@@ -4,7 +4,7 @@
       {{quote}}
     </p>
     <footer>
-      &mdash; {{attribution}}<span v-if="source">,</span>
+      &mdash; {{attribution}}<span v-if="attribution">,</span>
       <a v-if="link" :href="link" class="italic">{{source}}</a>
       <span v-else class="italic">{{source}}</span>
     </footer>

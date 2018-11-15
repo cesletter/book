@@ -3618,6 +3618,11 @@ markdown-it-anchor@^5.0.2:
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/markdown-it-anchor/-/markdown-it-anchor-5.0.2.tgz#cdd917a05b7bf92fb736a6dae3385c6d0d0fa552"
 
+markdown-it-attrs@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-2.3.2.tgz#7068c40571735e1b0f5c412ac802627a9fd0db01"
+  integrity sha512-DyatNvpatg7w+fGkplWGeie7o/0TogBr2w0izyz9ZQfTMv5G3lbDHQFQ42aP2e5L2mJQt0IeAjWzvYaa2d9xzQ==
+
 markdown-it-container@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/markdown-it-container/-/markdown-it-container-2.0.0.tgz#0019b43fd02eefece2f1960a2895fba81a404695"

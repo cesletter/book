@@ -1,16 +1,18 @@
 <template>
   <div class="scripture-quote">
-    <div class="reference">{{reference}}</div>
+    <a class="reference" v-if="link" :href="link" target="_blank">{{reference}}</a>
+    <div class="reference" v-else>{{reference}}</div>
+    <div v-if="description" class="description">{{description}}</div>
     <div class="scripture" v-html="mdQuote"></div>
   </div>
 </template>
 
 <script>
 export default {
-  props: ['reference', 'quote'],
+  props: ['reference', 'description', 'link', 'quote'],
   computed: {
     mdQuote: function() {
-      const md = require('markdown-it')();
+      const md = require('markdown-it')({ breaks: true });
       return md.renderInline(this.quote);
     }
   }
@@ -27,6 +29,14 @@ export default {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+.description {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 300;
+  display: block;
+  font-style: italic;
+  font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
 }
 .scripture {
   font-style: italic;
