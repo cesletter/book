@@ -90,7 +90,7 @@ Christ's Sermon on the Mount in the Bible and the Book of Mormon are identical. 
   after="...the Lamanites, and they are **among the** ancestors of the American Indians"
 />
 
-_UPDATE_: The Church conceded in its January 2014 [Book of Mormon and DNA Studies](https://www.cesletter.org/bom/12) essay that the majority of Native Americans carry largely Asian DNA. The Church, through this essay, makes a major shift in narrative from its past dominant narrative and claims of the origins of the Native American Indians.
+___UPDATE___: The Church conceded in its January 2014 [Book of Mormon and DNA Studies](https://www.cesletter.org/bom/12) essay that the majority of Native Americans carry largely Asian DNA. The Church, through this essay, makes a major shift in narrative from its past dominant narrative and claims of the origins of the Native American Indians.
 
 ### 5
 
@@ -132,34 +132,18 @@ We read in the Book of Mormon of the city of Teancum named for a warrior named T
 
 We see the Book of Mormon city Kishkumen located near an area named, on modern maps, as [Kiskiminetas](https://www.cesletter.org/bom/25). There are more than a dozen Book of Mormon names that are the same as or nearly the same as modern geographical locations.
 
-|  Modern Geographic Place |   Book of Mormon Name   |
-|:------------------------:|:-----------------------:|
-| Alma                     | Alma, Valley of         |
-| Antrim                   | Antum                   |
-| Antioch                  | Ani-Anti                |
-| Boaz                     | Boaz                    |
-| Hellam                   | Helam                   |
-| Jacobsburg               | Jacobugath              |
-| Jerusalem                | Jerusalem               |
-| Jordan                   | Jordan                  |
-| Kishkiminetas            | Kishkumen               |
-| Lehigh                   | Lehi                    |
-| Mantua                   | Manti                   |
-| Moraviantown             | Morianton               |
-| Noah Lakes               | Noah, Land of           |
-| Oneida                   | Onidah                  |
-| Oneida Castle            | Onidah, Hill            |
-| Rama                     | Ramah                   |
-| Ripple Lake              | Ripliancum, Waters of   |
-| Sodom                    | Sidom                   |
-| Shiloh                   | Shilom                  |
-| Sherbrooke               | Shurr                   |
+<SideBySideComparisonTable
+  leftTitle="Modern Geographic Place"
+  rightTitle="Book of Mormon Name"
+  leftItems="Alma|Antrim|Antioch|Boaz|Hellam|Jacobsburg|Jerusalem|Jordan|Kishkiminetas|Lehigh|Mantua|Moraviantown|Noah Lakes|Oneida|Oneida Castle|Rama|Ripple Lake|Sodom|Shiloh|Sherbrooke"
+  rightItems="Alma, Valley of|Antum|Ani-Anti|Boaz|Helam|Jacobugath|Jerusalem|Jordan|Kishkumen|Lehi|Manti|Morianton|Noah, Land of|Onidah|Onidah, Hill|Ramah|Ripliancum, Waters of|Sidom|Shilom|Shurr"
+/>
 
-_Source: Book of Mormon Authorship: A Closer Look, Vernal Holley_
+_Source: [Book of Mormon Authorship: A Closer Look, Vernal Holley](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1009&context=msr)_ {.text-center}
 
 Why are there so many names similar to Book of Mormon names in the region where Joseph Smith lived? Is this really all just a coincidence?
 
-_UPDATE_: Additional information and analysis can be found at [cesletter.org/maps](https://cesletter.org/maps/)
+___UPDATE___: Additional information and analysis can be found at [cesletter.org/maps](https://cesletter.org/maps/)
 
 #### HILL CUMORAH
 
@@ -191,7 +175,7 @@ Notice that this is considered “prevalent” and “received by many of our re
 
 The Hill Cumorah and Moroni have absolutely nothing to do with Camora and Moroni from Captain Kidd stories? Stories that Joseph and his treasure hunting family, friends, and community were familiar with? The original 1830 Book of Mormon just happens to have the uniform “Camorah” spelling? This is all just a mere coincidence?
 
-_UPDATE_: Additional information and analysis can be found at [cesletter.org/cumorah](https://cesletter.org/cumorah/)
+___UPDATE___: Additional information and analysis can be found at [cesletter.org/cumorah](https://cesletter.org/cumorah/)
 
 ### 8
 
@@ -201,17 +185,17 @@ There was a book published in 1823 Vermont entitled _[View of the Hebrews](https
   <thead>
     <tr>
       <th>&nbsp;</th>
-      <th>
-        <h3>View of the Hebrews</h3>
-        <a href="https://www.cesletter.org/bom/34">Online Source</a>
+      <th valign="bottom">
+        <h3 valign="bottom" class="spaced-title">View of the Hebrews</h3>
+        <a href="https://www.cesletter.org/bom/34" class="italicized">Online Source</a>
       </th>
-      <th>
-        <h3>Book of Mormon</h3>
-        <a href="https://www.cesletter.org/bom/35">Online Source</a>
+      <th valign="bottom">
+        <h3 class="spaced-title">Book of Mormon</h3>
+        <a href="https://www.cesletter.org/bom/35" class="italicized">Online Source</a>
       </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="italicized">
     <tr>
       <td valign="middle" style="width: 40%;">Published</td>
       <td valign="middle" style="text-align: center; width: 30%;">
@@ -224,164 +208,36 @@ There was a book published in 1823 Vermont entitled _[View of the Hebrews](https
     </tr>
     <tr>
       <td valign="middle">Location</td>
-      <td valign="middle" style="text-align: center;">
+      <td valign="top" style="text-align: center;">
         Vermont<br/>
         Poultney, Rutland County<br/><br/>
-        NOTE: Oliver Cowdery, one of the Book of Mormon witnesses, lived in
+        <strong class="spaced-title">NOTE:</strong> Oliver Cowdery, one of the Book of Mormon witnesses, lived in
         Poutlney when <strong>View of the Hebrews</strong> was published.
       </td>
-      <td valign="middle" style="text-align: center;">
+      <td valign="top" style="text-align: center;">
         Vermont<br/>
         Sharon, Windsor County<br/><br/>
-        NOTE: Windor County is adjacent to Rutland County.
+        <strong class="spaced-title">NOTE:</strong> Windor County is adjacent to Rutland County.
       </td>
     </tr>
-    <tr>
-      <td valign="middle">The destruction of Jerusalem</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">The scattering of Israel</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">The restoration of the Ten Tribes</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Hebrews leave the Old World for the New World</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Religion a motivating factor</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Migrations a long journey</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Encounter “seas” of “many waters”</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">The Americas an uninhabited land</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Settlers journey northward</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Encounter a valley of a great river</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">A unity of race (Hebrew) settle the land and are the ancestral origin of American Indians</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Hebrew the origin of Indian language</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Egyptian hieroglyphics</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">Lost Indian records</td>
-      <td valign="top" style="text-align: center;">
-        &#10004;<br/><br/>
-        A set of “yellow leaves” buried in Indian hill. Elder B.H. Roberts noted the “leaves” may be gold.
-      </td>
-      <td valign="top" style="text-align: center;">
-        &#10004;<br/><br/>
-        Joseph Smith claimed the gold plates were buried in Hill Cumorah.
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Breastplate, Urim & Thummim</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">Prophets, spiritually gifted men transmit generational records</td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center;">
-        &#10004;
-      </td>
-    </tr>
+    <ComparisonTr label="The destruction of Jerusalem" />
+    <ComparisonTr label="The scattering of Israel" />
+    <ComparisonTr label="The restoration of the Ten Tribes" />
+    <ComparisonTr label="THebrews leave the Old World for the New World" />
+    <ComparisonTr label="Religion a motivating factor" />
+    <ComparisonTr label="Migrations a long journey" />
+    <ComparisonTr label="Encounter “seas” of “many waters”" />
+    <ComparisonTr label="The Americas an uninhabited land" />
+    <ComparisonTr label="Settlers journey northward" />
+    <ComparisonTr label="Encounter a valley of a great river" />
+    <ComparisonTr label="A unity of race (Hebrew) settle the land and are the ancestral origin of American Indians" />
+    <ComparisonTr label="Hebrew the origin of Indian language" />
+    <ComparisonTr label="Egyptian hieroglyphics" />
+    <ComparisonTr label="Lost Indian records"
+      leftText="A set of “yellow leaves” buried in Indian hill. Elder B.H. Roberts noted the “leaves” may be gold."
+      rightText="Joseph Smith claimed the gold plates were buried in Hill Cumorah." />
+    <ComparisonTr label="Breastplate, Urim & Thummim" />
+    <ComparisonTr label="Prophets, spiritually gifted men transmit generational records" />
     <tr>
       <td valign="top">A man standing on a wall warning the people saying, “Wo, wo to this city...to this people” while subsequently being attacked.</td>
       <td valign="top">
@@ -413,12 +269,231 @@ There was a book published in 1823 Vermont entitled _[View of the Hebrews](https
         <a href="https://www.cesletter.org/bom/37" target="_blank">(Helaman 13-16)</a>
       </td>
     </tr>
+    <ComparisonTr label="The Gospel preached in the Americas" />
+    <ComparisonTr label="Quotes whole chapters of Isaiah" />
+    <ComparisonTr label="Good and bad are a necessary opposition" />
+    <ComparisonTr label="Pride denounced" />
+    <ComparisonTr label="Sacred towers and high places" />
+    <ComparisonTr label="Messiah visits the Americas"
+      leftText="Quetzalcoatl, the white bearded “Mexican Messiah”" />
+    <ComparisonTr label="Idolatry and human sacrifice" />
+    <ComparisonTr label="Hebrews divide into two classes, civilized and barbarous" />
+    <ComparisonTr label="Civilized thrive in art, written language, metallurgy, navigation" />
+    <ComparisonTr label="Government changes from monarchy to republic" />
+    <ComparisonTr label="Civil and ecclesiastical power is united in the same person" />
+    <ComparisonTr label="Long wars break out between the civilized and barbarous" />
+    <ComparisonTr label="Extensive military fortifications, observations, “watch towers”" />
+    <ComparisonTr label="Barbarous exterminate the civilized" />
+    <ComparisonTr label="Discusses the United States" />
+    <ComparisonTr label="Ethan/Ether"
+      leftText="Elder B.H. Roberts noted: “Ethan is prominently connected with the recording of the matter in the one case, and Ether in the other.”" />
   </tbody>
 </table>
 
+_Source: Source: B.H. Roberts, Studies of the Book of Mormon, p.240-242,324-344_ {.text-center}
+
+Reverend Ethan Smith was the author of _View of the Hebrews_. Ethan Smith was a pastor in Poultney, Vermont when he wrote and published the book. Oliver Cowdery – also a Poultney, Vermont resident – was [a member of Ethan’s congregation](https://www.cesletter.org/bom/38) during this time and before he went to New York to [join his distant cousin](https://www.cesletter.org/bom/39) Joseph Smith. As you know, Oliver Cowdery played an instrumental role in the production of the Book of Mormon.
+
+This direct link between Joseph and Oliver and _View of the Hebrews_ demonstrates that Joseph is very likely to have been aware of the theme and content of that book. It gives weight to all the similarities described in the preceding comparison chart. Apologists may point out that the Book of Mormon is not a direct, word-for-word plagiarism of _View of the Hebrews_, and indeed that is not the claim. Rather, the similarities should give any reader pause that two books so similar in theme and content would coincidentally be connected by Oliver Cowdery.
+
+LDS General Authority and scholar [Elder B.H. Roberts](https://www.cesletter.org/bom/40) privately researched the link between the Book of Mormon and the _View of the Hebrews_, [Joseph’s father having the same dream in 1811 as Lehi’s dream](https://www.cesletter.org/bom/41), and other sources that were available to Joseph Smith, Oliver Cowdery, Martin Harris and others before the publication of the Book of Mormon. Elder Roberts’ private research was meant only for the eyes of the First Presidency and the Quorum of the Twelve and was never intended to be available to the public. However, Roberts’ work was [later published](https://www.cesletter.org/bom/42) in 1985 as [Studies of the Book of Mormon](https://www.cesletter.org/bom/43). Based upon his research, Elder B.H. Roberts came to the following conclusion on the _View of the Hebrews_:
+
+<QuoteWithReference
+  quote="Did Ethan Smith’s View of the Hebrews furnish structural material for Joseph Smith’s Book of Mormon? It has been pointed out in these pages that there are many things in the former book that might well have suggested many major things in the other. Not a few things merely, one or two, or a half dozen, but many; and it is this fact of many things of similarity and the cumulative force of them that makes them so serious a menace to Joseph Smith’s story of the Book of Mormon’s origin."
+  attribution="B.H. Roberts"
+  source="Studies of the Book of Mormon, p.240"
+  link="https://www.cesletter.org/bom/43"
+/>
+
+While this does not prove that the Book of Mormon was plagiarized from the _View of the Hebrews_, it does demonstrate that key elements of the story of the Book of Mormon – i.e. Native Americans as Hebrew descendants, ancient records of natives preserved, scattering and gathering of Israel, Hebrew origin of Native American language, etc. pre-dated the Book of Mormon and were already among the ideas circulating among New England protestant Americans.
+
+With these ideas already existing and the previously cited issues with KJV plagiarism, errors, anachronisms, geography problems, and more issues to come, is it unreasonable to question Joseph Smith’s story of the Book of Mormon origins as Church Historian B.H. Roberts did?
+
+___UPDATE___: Additional information and analysis can be found at [cesletter.org/voh](http://cesletter.org/voh)
 
 ### 9
 
+[The Late War Between the United States and Great Britain](https://www.cesletter.org/bom/44): This book was an 1819 textbook written for New York state school children. The book depicted the events of the War of 1812 and it was specifically written in a Jacobean English style to imitate the King James Bible. This affected scriptural style was calculated to elevate the moral themes, characters and events depicted in the narrative to inspire the readers to “patriotism and piety.” Readers already accustomed to revere scriptural sounding texts in the ancient Bible would be predisposed to revere this history book which employs the same linguistic style.
+
+The [first chapter](https://www.cesletter.org/bom/45) alone is stunning as it reads incredibly like the Book of Mormon:
+
+<ScriptureQuote
+  quote="1: Now it came to pass, in the one thousand eight hundred and twelfth year of the christian era, and in the thirty and sixth year after the people of the provinces of Columbia had declared themselves a free and independent nation;
+  2: That in the sixth month of the same year, on the first day of the month, the chief Governor, whom the people had chosen to rule over the land of Columbia;
+  3: Even James, whose sir-name was Madison, delivered a written paper to the Great Sannhedrim of the people, who were assembled together.
+  4: And the name of the city where the people were gathered together was called after the name of the chief captain of the land of Columbia, whose fame extendeth to the uttermost parts of the earth; albeit, he had slept with his fathers..."
+/>
+
+In addition to the above KJV language style present throughout the book, what are the following Book of Mormon verbatim phrases, themes, and storylines doing in a children’s school textbook that was used in Joseph Smith’s own time and backyard – all of this a mere decade before the publication of the Book of Mormon?
+
+* Devices of “curious workmanship” in relation to boats and weapons.
+* A “stripling” soldier “with his “weapon of war in his hand.”
+* “A certain chief captain...was given in trust a band of more than two thousand chosen men, to go forth to battle” and who “all gave their services freely for the good of their country.”
+* Fortifications: “the people began to fortify themselves and entrench the high Places round about the city.”
+* Objects made “partly of brass and partly of iron, and were cunningly contrived with curious works, like unto a clock; and as it were a large ball.”
+* “Their polished steels of fine workmanship.”
+* “Nevertheless, it was so that the freeman came to the defence of the city, built strong holds and forts and raised up fortifications in abundance.”
+* Three Indian Prophets.
+* “Rod of iron.”
+* War between the wicked and righteous.
+* Maintaining the standard of liberty with righteousness.
+* Righteous Indians vs. savage Indians.
+* False Indian prophets.
+* Conversion of Indians.
+* Bands of robbers/pirates marauding the righteous protagonists.
+* Engraving records.
+* “And it came to pass, that a great multitude flocked to the banners of the great Sanhedrim” compared to Alma 62:5: “And it came to pass that thousands did flock unto his standard, and did take up their swords in defense of their freedom...”
+* Worthiness of Christopher Columbus.
+* Ships crossing the ocean.
+* A battle at a fort where righteous white protagonists are attacked by
+an army made up of dark-skinned natives driven by a white military leader. White protagonists are prepared for battle and slaughter their opponents to such an extent that they fill the trenches surrounding the fort with dead bodies. The surviving elements flee into the wilderness/forest.
+* Cataclysmic earthquake followed by great darkness.
+* Elephants/mammoths in America.
+* Literary Hebraisms/Chiasmus.
+* Boats and barges built from trees after the fashion of the ark.
+* A bunch of “it came to pass.”
+* Many, many more [parallels](https://cesletter.org/bom/46).
+
+The parallels and similarities to the Book of Mormon are astounding. This [web page](https://cesletter.org/bom/46) outlines very clearly and simply just how phenomenally unlikely it is that so many common rare phrases and themes could be found between these books without the _Late War_ having had some influence on the Book of Mormon.
+
+ormer BYU Library Bibliographic Dept. Chairman and antique book specialist Rick Grunder states in his analysis of [The Late War (p.770)](https://www.cesletter.org/bom/48):
+
+<IndentedQuote quote="The presence of Hebraisms and other striking parallels in a popular children’s textbook (Late War), on the other hand – so close to Joseph Smith in his youth – must sober our perspective." />
+
 ### 10
 
+Another fascinating book published in 1809, _[The First Book of Napoleon](https://www.cesletter.org/bom/49)_:
+
+The [first chapter](https://www.cesletter.org/bom/50):
+
+<ScriptureQuote
+  quote="1. And behold it came to pass, in these latter days, that an evil spirit arose on the face of the earth, and greatly troubled the sons of men.
+  2. And this spirit seized upon, and spread amongst the people who dwell in the land of Gaul.
+  3. Now, in this people the fear of the Lord had not been for many generations, and they had become a corrupt and perverse people; and their chief priests, and the nobles of the land, and the learned men thereof, had become wicked in the imagines of their hearts, and in the practices of their lives.
+  4. And the evil spirit went abroad amongst the people, and they raged like unto the heathen, and they rose up against their lawful king, and slew him, and his queen also, and the prince their son; yea, verily, with a cruel and bloody death.
+  5. And they moreover smote, with mighty wrath, the king’s guards, and banished the priests, and nobles of the land, and seized upon, and took unto themselves, their inheritances, their gold and silver, corn and oil, and whatsoever belonged unto them.
+  6. Now it came to pass, that the nation of the Gauls continued to be sorely troubled and vexed, and the evil spirit whispered unto the people, even unto the meanest and vilest thereof..." />
+
+...and it continues on. It’s like reading from the Book of Mormon. When I first read this along with other passages from _The First Book of Napoleon_, I was floored. Here we have two early 19th century contemporary books written at least a decade before the Book of Mormon that not only read and sound like the Book of Mormon but also contain so many of the Book of Mormon’s parallels and themes as well.
+
+The following is a side-by-side comparison of selected phrases the Book of Mormon is known for from the beginning portion of the Book of Mormon with the same order in the beginning portion of _The First Book of Napoleon_ (note: these are not direct paragraphs):
+
+<ScriptureQuote
+  reference="THE FIRST BOOK OF NAPOLEON"
+  quote="Condemn not the (writing)...an account...the First Book of Napoleon... upon the face of the earth...it came to pass...the land...their inheritances their gold and silver and...the commandments of the Lord...the foolish imaginations of their hearts...small in stature...Jerusalem...because of the perverse wickedness of the people." />
+
+<ScriptureQuote
+  reference="BOOK OF MORMON"
+  quote="Condemn not the (writing)...an account...the First Book of Nephi... upon the face of the earth...it came to pass...the land...his inheritance and his gold and his silver and...the commandments of the Lord...the foolish imaginations of his heart...large in stature...Jerusalem...because of the wickedness of the people." />
+
 ### 11
+
+The Book of Mormon taught and still teaches a Trinitarian view of the Godhead. Joseph Smith’s early theology also held this view. As part of the over [100,000 changes](https://www.cesletter.org/bom/51) to the Book of Mormon, there were major changes made to reflect Joseph’s evolved view of the Godhead.
+
+<table class="no-striped">
+  <thead>
+    <tr class="border-0">
+      <th valign="bottom" class="border-0 border-right">
+        <h3 valign="bottom" class="spaced-title">ORIGINAL 1830 EDITION TEXT</h3>
+        <a href="https://www.cesletter.org/bom/52" class="italicized">View Online</a>
+      </th>
+      <th valign="bottom" class="border-0">
+        <h3 class="spaced-title">CURRENT, ALTERED TEXT</h3>
+        <a href="https://www.cesletter.org/bom/53" class="italicized">View Online</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody class="italicized">
+    <tr>
+      <td valign="middle" class="text-center w-50 border-0 border-right">
+        <ScriptureQuote
+          reference="1 Nephi 3 (p.25)"
+          link="https://cesletter.org/bom/54"
+          quote="And he said unto me, Behold, the virgin whom thou seest, is **the mother of God**, after the manner of the flesh." />
+      </td>
+      <td valign="middle" class="text-center w-50 border-0">
+        <ScriptureQuote
+          reference="1 Nephi 11:18"
+          link="https://cesletter.org/bom/55"
+          quote="And he said unto me: Behold, the virgin whom thou seest is **the mother of ___the Son of___ God**, after the manner of the flesh." />
+      </td>
+    </tr>
+    <tr class="border-0">
+      <td valign="middle" class="text-center border-0 border-right">
+        <ScriptureQuote
+          reference="1 Nephi 3 (p.25)"
+          link="https://cesletter.org/bom/56"
+          quote="And the angel said unto me, behold the Lamb of God, yea, even **the Eternal Father!**" />
+      </td>
+      <td valign="middle" class="text-center border-0">
+        <ScriptureQuote
+          reference="1 Nephi 11:21"
+          link="https://cesletter.org/bom/57"
+          quote="And the angel said unto me: Behold the Lamb of God, yea, even **___the Son of___ the Eternal Father**" />
+      </td>
+    </tr>
+    <tr class="border-0">
+      <td valign="middle" class="text-center border-0 border-right">
+        <ScriptureQuote
+          reference="1 Nephi 3 (p.26)"
+          link="https://cesletter.org/bom/58"
+          quote="And I looked and beheld the Lamb of God, that he was taken by the people; yea, **the Everlasting God**, was judged of the world;" />
+      </td>
+      <td valign="middle" class="text-center border-0">
+        <ScriptureQuote
+          reference="1 Nephi 11:32"
+          link="https://cesletter.org/bom/59"
+          quote="And I looked and beheld the Lamb of God, that he was taken by the people; yea, **___the Son of___ the everlasting God** was judged of the world;" />
+      </td>
+    </tr>
+    <tr class="border-0">
+      <td valign="middle" class="text-center border-0 border-right border-bottom">
+        <ScriptureQuote
+          reference="1 Nephi 3 (p.32)"
+          link="https://cesletter.org/bom/60"
+          quote="These last records...shall make known to all kindreds, tongues, and people, that the Lamb of God is **the Eternal Father and the Savior of the world**;" />
+      </td>
+      <td valign="middle" class="text-center border-0 border-bottom">
+        <ScriptureQuote
+          reference="1 Nephi 13:40"
+          link="https://cesletter.org/bom/61"
+          quote="These last records...shall make known to all kindreds, tongues, and people, that the Lamb of God is **___the Son of___ the Eternal Father, and the Savior of the world**;" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+In addition to these revised passages, the following verses are among many verses still in the Book of Mormon that can be read with a Trinitarian view of the Godhead:
+
+<ScriptureQuote
+  reference="Alma 11:38-39"
+  link="https://cesletter.org/bom/62"
+  quote="38: Now Zeezrom saith again unto him: Is the Son of God the very Eternal Father?
+  39: And Amulek said unto him: Yea, he is the very Eternal Father of heaven and of earth, and all things which in them are; he is the beginning and the end, the first and the last;" />
+
+<ScriptureQuote
+  reference="Mosiah 15:1-4"
+  link="https://cesletter.org/bom/63"
+  quote="1: And now Abinadi said unto them: I would that ye should understand that God himself shall come down among the children of men, and shall redeem his people.
+  2: And because he dwelleth in flesh he shall be called the Son of God, and having subjected the flesh to the will of the Father, being the Father and the Son –
+  3: The Father, because he was conceived by the power of God; and the Son, because of the flesh; thus becoming the Father and Son –
+  4: And they are one God, yea, the very Eternal Father of heaven and of earth." />
+
+<ScriptureQuote
+  reference="Ether 3:14-15"
+  link="https://cesletter.org/bom/64"
+  quote="14: Behold, I am he who was prepared from the foundation of the world to redeem my people. Behold, I am Jesus Christ. I am the Father and the Son. In me shall all mankind have life, and that eternally, even they who shall believe on my name; and they shall become my sons and my daughters.
+  15: And never have I showed myself unto man whom I have created, for never has man believed in me as thou hast. Seest thou that ye are created after mine own image? Yea, even all men were created in the beginning after mine own image." />
+
+<ScriptureQuote
+  reference="Mosiah 16:15"
+  link="https://cesletter.org/bom/65"
+  quote="15: “Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father. Amen.”" />
+
+Boyd Kirkland made the following [observation](https://www.cesletter.org/bom/66):
+
+<IndentedQuote quote="The Book of Mormon and early revelations of Joseph Smith do indeed vividly portray a picture of the Father and Son as the same God...why is it that the Book of Mormon not only doesn’t clear up questions about the Godhead which have raged in Christianity for centuries, but on the contrary just adds to the confusion? This seems particularly ironic, since a major avowed purpose of the book was to restore lost truths and end doctrinal controversies caused by the “great and abominable Church’s” corruption of the Bible...In later years he [Joseph] reversed his earlier efforts to completely ‘monotheise’ the godhead and instead ‘tritheised’ it." />
+
+___UPDATE___: Additional information and analysis can be found at [cesletter.org/trinitarian](http://cesletter.org/trinitarian)
+
+Assuming that the official [1838 first vision account](https://www.cesletter.org/bom/67) is truthful and accurate, why would Joseph Smith hold a Trinitarian view of the Godhead if he personally saw God the Father and Jesus Christ as separate and embodied beings a few years earlier in the Sacred Grove?
