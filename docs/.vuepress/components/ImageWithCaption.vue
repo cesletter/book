@@ -36,10 +36,12 @@ export default {
   letter-spacing: 0.05em;
 }
 .above, .below {
-  margin-top: 0.5rem;
+  margin: 0.5rem auto 0;
   text-align: center;
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 300;
+  line-height: 1.3rem;
+  max-width: 450px;
   display: block;
   font-style: italic;
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;

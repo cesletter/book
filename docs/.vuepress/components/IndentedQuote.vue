@@ -1,10 +1,10 @@
 <template>
-  <q v-html="mdQuote"></q>
+  <q v-bind:class="className" v-html="mdQuote"></q>
 </template>
 
 <script>
 export default {
-  props: ['quote'],
+  props: ['quote', 'className'],
   computed: {
     mdQuote: function() {
       const md = require('markdown-it')({ breaks: true });

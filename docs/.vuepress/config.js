@@ -21,7 +21,7 @@ module.exports = {
       ["/bom/", "Book of Mormon"],
       ["/bom-translation/", "Book of Mormon Translation"],
       ["/first-vision/", "First Vision"],
-      "/boa/",
+      ["/boa/", "Book of Abraham"],
       "/polygamy/",
       "/prophets/",
       "/kinderhook/",
