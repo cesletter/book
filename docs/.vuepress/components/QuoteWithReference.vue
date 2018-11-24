@@ -3,15 +3,18 @@
     <p class="quotation" v-html="mdQuote"></p>
     <footer>
       &mdash; {{attribution}}<span v-if="attribution">,</span>
-      <a v-if="link" :href="link" class="italic">{{source}}</a>
-      <span v-else class="italic">{{source}}</span>
+      <a v-if="link && source" :href="link" class="italic">{{source}}</a>
+      <span v-if="!link && source" class="italic">{{source}}</span>
+      <span v-if="source2">|</span>
+      <a v-if="link2 && source2" :href="link2" class="italic">{{source2}}</a>
+      <span v-if="!link2 && source2" class="italic">{{source2}}</span>
     </footer>
   </blockquote>
 </template>
 
 <script>
 export default {
-  props: ['quote', 'attribution', 'source', 'link'],
+  props: ['quote', 'attribution', 'source', 'link', 'source2', 'link2'],
   computed: {
     mdQuote: function() {
       const md = require('markdown-it')({ breaks: true });

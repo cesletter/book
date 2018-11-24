@@ -545,3 +545,73 @@ Why would anyone assume that? {."spaced-title text-center text-red"}
   reference="Abraham 1:12"
   quote="And it came to pass that the priests laid violence upon me, that they might slay me also, as they did those virgins upon this altar; and that you may have a knowledge of this altar, I will refer you to the representation at the commencement of this record."
 />
+
+## 7
+
+Facsimile 2, Figure #5 states the sun receives its “light from the revolutions of Kolob.” We now know, however, that the process of nuclear fusion is what makes the stars and suns shine. With the discovery of quantum mechanics, scientists learned that the sun’s source of energy is internal and not external. The sun shines because of thermonuclear fusion. The sun does not shine because it gets its light from any other star or any other external source.
+
+## 8
+
+There is a book published in 1829 by Thomas Dick entitled _[The Philosophy of a Future State](https://cesletter.org/boa/29)_. Joseph Smith [owned a copy](https://cesletter.org/boa/30) of the book and Oliver Cowdery quoted some lengthy excerpts from the book in the [December 1836 Messenger and Advocate](https://cesletter.org/boa/31).
+
+Klaus Hansen, an LDS scholar, stated:
+
+<IndentedQuote quote="The progressive aspect of Joseph’s theology, as well as its cosmology, while in a general way compatible with antebellum thought, bears some remarkable resemblances to Thomas Dick’s ‘Philosophy of a Future State’." />
+
+Hansen continues:
+
+<IndentedQuote
+  quote="Some very striking parallels to Smith’s theology suggest that the similarities between the two may be more than coincidental. Dick’s lengthy book, an ambitious treatise on astronomy and metaphysics, proposed the idea that matter is eternal and indestructible and rejected the notion of a creation ex nihilo. Much of the book dealt with the infinity of the universe, made up of innumerable stars spread out over immeasurable distances. Dick speculated that many of these stars were peopled by ‘various orders of intelligences’ and that these intelligences were ‘progressive beings’ in various stages of evolution toward perfection. In the Book of Abraham, part of which consists of a treatise on astronomy and cosmology, eternal beings of various orders and stages of development likewise populate numerous stars. They, too, are called ‘intelligences.’ Dick speculated that ‘the systems of the universe revolve around a common centre...the throne of God.’ In the Book of Abraham, one star named Kolob ‘was nearest unto the throne of God.’ Other stars, in ever diminishing order, were placed in increasing distances from this center."
+  source="Mormonism and the American Experience, p.79-80, 110"
+  link="https://cesletter.org/boa/32"
+/>
+
+## 9
+
+Elder Jeffrey R. Holland was directly asked about the papyri not matching the Book
+of Abraham in a March 2012 [BBC interview](https://cesletter.org/boa/33):
+
+<IndentedQuote
+  speaker="Sweeney"
+  quote="Mr. Smith got this papyri and he translated them and subsequently as the Egyptologists cracked the code something completely different..."
+/>
+
+<IndentedQuote
+  speaker="Holland"
+  quote="(Interrupts) All I’m saying...all I’m saying is that what got translated got translated into the word of God. The vehicle for that, I do not understand and don’t claim to know and know no Egyptian."
+/>
+
+Is “I don’t know and I don’t understand but it’s the word of God” really the best answer that a “prophet, seer, and revelator” can come up with to such a profound problem and stumbling block that is driving many members out of the Church?
+
+The following are respected Egyptian scholars/Egyptologists statements regarding Joseph Smith and the Book of Abraham:
+
+<IndentedQuote
+  quote="...these three facsimiles of Egyptian documents in the Pearl of Great Price depict the most common objects in the Mortuary religion of Egypt. Joseph Smith’s interpretations of them as part of a unique revelation through Abraham, therefore, very clearly demonstrates that he was totally unacquainted with the significance of these documents and absolutely ignorant of the simplest facts of Egyptian writing and civilization."
+  attribution="Dr. James H. Breasted, University of Chicago"
+  source="Joseph Smith, Jr., As a Translator, p.26-27"
+  link="https://cesletter.org/boa/34"
+/>
+
+<IndentedQuote
+  quote="It may be safely said that there is not one single word that is true in these explanations."
+  attribution="Dr. W.M. Flinders Petrie, London University"
+  source="Joseph Smith, Jr., As a Translator, p.24"
+  link="https://cesletter.org/boa/35"
+/>
+
+<IndentedQuote
+  quote="It is difficult to deal seriously with Joseph Smith’s impudent fraud... Smith has turned the goddess [Isis in Facsimile #3] into a king and Osiris into Abraham."
+  attribution="Dr. A.H. Sayce, Oxford professor of Egyptology"
+  source="Joseph Smith, Jr., As a Translator, p.23"
+  link="https://cesletter.org/boa/36"
+/>
+
+In addition to the above, world renowned and respected University of Chicago professor of Egyptology, Dr. Robert Ritner, provided a detailed response and rebuttal to the LDS Church’s [Translation and Historicity of the Book of Abraham](https://www.cesletter.org/boa) essay that is sobering and devastating. Dr. Ritner’s rebuttal to the Church’s essay can be read [here](https://www.cesletter.org/boa/6).
+
+The following [video](https://www.cesletter.org/papyri) offers a thorough, complete, and unbiased overview of the Book of Abraham issues as well as the apologetic responses to them:
+
+[CESLETTER.COM/PAPYRI](https://cesletter.org/papyri) {."spaced-title text-center"}
+
+An online contributor created an [easy-to-understand document](https://cesletter.org/boa/40) very clearly outlining the Book of Abraham issues. Contrary to what some Mormon apologists claim or imply, a person does not have to be an Egyptologist or a scholar with a PhD to clearly understand the Book of Abraham problems and challenges to Joseph Smith’s claims of being a translator.
+
+Of all the issues, the Book of Abraham is the issue that has both fascinated and disturbed me the most. It is the issue that I’ve spent the most time researching because it offers a real insight into Joseph’s modus operandi as well as Joseph’s claim of being a translator. It is the smoking gun that has completely obliterated my testimony of Joseph Smith and his claims.
