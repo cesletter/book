@@ -7,7 +7,7 @@
     <q v-if="!speaker" v-bind:class="className" v-html="mdQuote"></q>
     <footer v-if="attribution || link || source">
       &mdash; {{attribution}}<span v-if="attribution">,</span>
-      <a v-if="link && source" :href="link" class="italic">{{source}}</a>
+      <a v-if="link && source" :href="link" target="_blank" class="italic">{{source}}</a>
       <span v-if="!link && source" class="italic">{{source}}</span>
     </footer>
   </div>
