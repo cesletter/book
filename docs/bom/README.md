@@ -17,11 +17,11 @@
   link="http://www.cesletter.org/bom/2"
 />
 
-### 1
+## 1
 
 What are 1769 King James Version edition [errors](https://cesletter.org/bom/3) doing in the Book of Mormon? A purported ancient text? Errors which are unique to the 1769 edition that Joseph Smith owned?
 
-### 2
+## 2
 
 When King James translators were translating the KJV Bible between 1604 and 1611, they would occasionally put in their own words into the text to make the English more readable. We know exactly what these words are because they're italicized in the KJV Bible. What are these 17th century italicized words doing in the Book of Mormon? Word for word? What does this say about the Book of Mormon being an ancient record?
 
@@ -49,7 +49,7 @@ The above example, [2 Nephi 19:1](https://www.cesletter.org/bom/4), dated in the
 
 In the above example, the KJV translators added 7 italicized words to their English translation, which are not found in the source Hebrew manuscripts. Why does the Book of Mormon, which is supposed to have been completed by Moroni over 1,400 years prior, contain the exact identical seven italicized words of 17th century translators?
 
-### 3
+## 3
 
 The Book of Mormon includes mistranslated biblical passages that were later changed in Joseph Smith’s translation of the Bible. These Book of Mormon verses should match the inspired JST version instead of the incorrect KJV version that Joseph later fixed. A typical example of the differences between the BOM, the KJV, and the JST:
 
@@ -81,7 +81,7 @@ The Book of Mormon includes mistranslated biblical passages that were later chan
 
 Christ's Sermon on the Mount in the Bible and the Book of Mormon are identical. But Joseph Smith later corrected the Bible. In doing so, he also contradicted the same identical Sermon on the Mount passage in the Book of Mormon. The Book of Mormon is “the most correct book” and was translated a mere decade before the JST. The Book of Mormon was not corrupted over time and did not need correcting. How is it that the Book of Mormon has the incorrect Sermon on the Mount passage and does not match the correct JST version in the first place?
 
-### 4
+## 4
 
 [DNA analysis](https://www.cesletter.org/bom/10) has concluded that Native American Indians do not originate from the Middle East or from Israelites but rather from Asia. Why did the Church change the following section of the introduction page in the [2006 edition](https://www.cesletter.org/bom/11) Book of Mormon, shortly after the DNA results were released?
 
@@ -92,13 +92,13 @@ Christ's Sermon on the Mount in the Bible and the Book of Mormon are identical. 
 
 ___UPDATE___: The Church conceded in its January 2014 [Book of Mormon and DNA Studies](https://www.cesletter.org/bom/12) essay that the majority of Native Americans carry largely Asian DNA. The Church, through this essay, makes a major shift in narrative from its past dominant narrative and claims of the origins of the Native American Indians.
 
-### 5
+## 5
 
 Anachronisms: Horses, cattle, oxen, sheep, swine, goats, elephants, wheels, chariots, wheat, silk, steel, and iron [did not exist in pre-Columbian America](https://www.cesletter.org/bom/13) during Book of Mormon times. Why are these things mentioned in the Book of Mormon as being made available in the Americas between 2200 BC - 421 AD?
 
 Unofficial apologists claim victories in some of these items but closer inspection reveals significant problems. It has been documented that apologists have manipulated wording so that steel is not steel, sheep become never-domesticated bighorn sheep, horses become tapirs, etc.
 
-### 6
+## 6
 
 Archaeology: There is absolutely [no archaeological evidence](https://www.cesletter.org/bom/14) to directly support the Book of Mormon or the Nephites and Lamanites, who were supposed to have numbered in the millions. This is one of the reasons why unofficial apologists have developed the [Limited Geography Model](https://www.cesletter.org/bom/15) (it happened in Central or South America) and claim that the Hill Cumorah mentioned as the final battle of the Nephites is not in Palmyra, New York but is elsewhere. This is in direct contradiction to what Joseph Smith and [other prophets have taught](https://www.cesletter.org/bom/16). It also makes little sense in light of the Church’s visitor’s center near the Hill Cumorah in New York and the annual Church-sponsored Hill Cumorah pageants.
 
@@ -114,7 +114,7 @@ Admittedly, absence of evidence is not evidence of absence, but where are the Ne
 
 <IndentedQuote quote="...you can’t set Book of Mormon geography down anywhere – because it is fictional and will never meet the requirements of the dirt-archaeology. I should say – what is in the ground will never conform to what is in the book." />
 
-### 7
+## 7
 
 Book of Mormon Geography: Many Book of Mormon names and places are strikingly similar to many local names and places of the region where Joseph Smith lived.
 
@@ -145,7 +145,7 @@ Why are there so many names similar to Book of Mormon names in the region where 
 
 ___UPDATE___: Additional information and analysis can be found at [cesletter.org/maps](https://cesletter.org/maps/)
 
-#### HILL CUMORAH
+### HILL CUMORAH
 
 Off the eastern coast of Mozambique in Africa is an island country called “[Comoros](https://www.cesletter.org/bom/26).” Prior to its French occupation in 1841, the islands were known by its Arabic name, “Camora.” There is an 1808 map of Africa that refers to the islands as “Camora.”
 
@@ -177,7 +177,7 @@ The Hill Cumorah and Moroni have absolutely nothing to do with Camora and Moroni
 
 ___UPDATE___: Additional information and analysis can be found at [cesletter.org/cumorah](https://cesletter.org/cumorah/)
 
-### 8
+## 8
 
 There was a book published in 1823 Vermont entitled _[View of the Hebrews](https://www.cesletter.org/bom/33)_. Below is a chart comparing the _View of the Hebrews_ to the Book of Mormon:
 
@@ -311,7 +311,7 @@ With these ideas already existing and the previously cited issues with KJV plagi
 
 ___UPDATE___: Additional information and analysis can be found at [cesletter.org/voh](http://cesletter.org/voh)
 
-### 9
+## 9
 
 [The Late War Between the United States and Great Britain](https://www.cesletter.org/bom/44): This book was an 1819 textbook written for New York state school children. The book depicted the events of the War of 1812 and it was specifically written in a Jacobean English style to imitate the King James Bible. This affected scriptural style was calculated to elevate the moral themes, characters and events depicted in the narrative to inspire the readers to “patriotism and piety.” Readers already accustomed to revere scriptural sounding texts in the ancient Bible would be predisposed to revere this history book which employs the same linguistic style.
 
@@ -360,7 +360,7 @@ ormer BYU Library Bibliographic Dept. Chairman and antique book specialist Rick 
 
 <IndentedQuote quote="The presence of Hebraisms and other striking parallels in a popular children’s textbook (Late War), on the other hand – so close to Joseph Smith in his youth – must sober our perspective." />
 
-### 10
+## 10
 
 Another fascinating book published in 1809, _[The First Book of Napoleon](https://www.cesletter.org/bom/49)_:
 
@@ -386,7 +386,7 @@ The following is a side-by-side comparison of selected phrases the Book of Mormo
   reference="BOOK OF MORMON"
   quote="Condemn not the (writing)...an account...the First Book of Nephi... upon the face of the earth...it came to pass...the land...his inheritance and his gold and his silver and...the commandments of the Lord...the foolish imaginations of his heart...large in stature...Jerusalem...because of the wickedness of the people." />
 
-### 11
+## 11
 
 The Book of Mormon taught and still teaches a Trinitarian view of the Godhead. Joseph Smith’s early theology also held this view. As part of the over [100,000 changes](https://www.cesletter.org/bom/51) to the Book of Mormon, there were major changes made to reflect Joseph’s evolved view of the Godhead.
 

@@ -47,4 +47,11 @@ em {
   display: block;
   font-size: 0.9rem;
 }
+
+@media only screen and (max-width: 600px) {
+  q {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
 </style>

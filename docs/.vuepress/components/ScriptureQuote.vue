@@ -13,7 +13,7 @@ export default {
   computed: {
     mdQuote: function() {
       const md = require('markdown-it')({ breaks: true });
-      return md.renderInline(this.quote);
+      return md.renderInline(this.quote).replace(/\<br\>/g, '<div style="padding-top: 0.5rem;"></div>');
     }
   }
 }
@@ -45,5 +45,15 @@ export default {
   display: block;
   line-height: 1.5rem;
   text-align: justify;
+}
+
+@media only screen and (max-width: 600px) {
+  .scripture-quote {
+    padding: 0;
+  }
+  .scripture {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 </style>
