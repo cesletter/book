@@ -3,6 +3,7 @@
     <div class="title" v-if="title">{{title}}</div>
     <div class="above" v-if="above" v-html="mdAbove"></div>
     <img :src="src" />
+    <div class="title" v-if="bottomTitle">{{bottomTitle}}</div>
     <div class="below" v-if="below" v-html="mdBelow"></div>
   </div>
 </template>
@@ -11,7 +12,7 @@
 const md = require('markdown-it')({ breaks: true });
 
 export default {
-  props: ['src', 'title', 'above', 'below'],
+  props: ['src', 'title', 'above', 'below', 'bottomTitle'],
   computed: {
     mdAbove: function() {
       return md.renderInline(this.above);

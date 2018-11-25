@@ -1,5 +1,6 @@
 <template>
   <div class="IndentedQuote">
+    <div class="reference" v-if="reference">{{reference}}</div>
     <div v-if="speaker">
       <strong>{{speaker}}:</strong>
       <q v-bind:class="className" v-html="mdQuote"></q>
@@ -15,7 +16,7 @@
 
 <script>
 export default {
-  props: ['quote', 'className', 'attribution', 'source', 'link', 'speaker'],
+  props: ['reference', 'quote', 'className', 'attribution', 'source', 'link', 'speaker'],
   computed: {
     mdQuote: function() {
       const md = require('markdown-it')({ breaks: true });
@@ -40,6 +41,15 @@ q:before {
 }
 q:after {
   content: open-quote;
+}
+.reference {
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 1.5rem;
+  padding-bottom: 0.5rem;
 }
 footer {
   margin: 0.35rem 0 1.25rem;
