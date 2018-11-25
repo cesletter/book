@@ -1,3 +1,7 @@
+---
+title: Book of Mormon
+---
+
 <RedTitleBar
   title="Book of Mormon"
   subtitle="Concerns & Questions"

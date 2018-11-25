@@ -3,10 +3,10 @@
     <p class="quotation" v-html="mdQuote"></p>
     <footer>
       &mdash; {{attribution}}<span v-if="attribution">,</span>
-      <a v-if="link && source" :href="link" class="italic">{{source}}</a>
+      <a v-if="link && source" :href="link" class="italic" target="_blank">{{source}}</a>
       <span v-if="!link && source" class="italic">{{source}}</span>
       <span v-if="source2">|</span>
-      <a v-if="link2 && source2" :href="link2" class="italic">{{source2}}</a>
+      <a v-if="link2 && source2" :href="link2" class="italic" target="_blank">{{source2}}</a>
       <span v-if="!link2 && source2" class="italic">{{source2}}</span>
     </footer>
   </blockquote>

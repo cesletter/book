@@ -10,12 +10,18 @@ module.exports = {
         link: "https://cesletter.org/debunking-fairmormon/"
       },
       {
+        text: "Sources",
+        link: "https://cesletter.org/sources/"
+      },
+      {
         text: "Donate",
         link: "https://cesletter.org/debunking-fairmormon/#donate"
       }
     ],
+    sidebarDepth: 2,
     sidebar: [
       ["/", "Title Page"],
+      ["/preface/", "Preface"],
       ["/dedication/", "Dedication"],
       ["/introduction/", "Introduction"],
       ["/bom/", "Book of Mormon"],
@@ -28,12 +34,11 @@ module.exports = {
       ["/testimony/", "Testimony & Spiritual Witness"],
       ["/priesthood/", "Priesthood Restoration"],
       ["/witnesses/", "Witnesses"],
-      "/temples/",
-      "/science/",
-      "/other/",
-      "/conclusion/",
-      "/sources/",
-      "/epilogue/"
+      ["/temples/", "Temples & Freemasonry"],
+      ["/science/", "Science"],
+      ["/other/", "Other"],
+      ["/conclusion/", "Conclusion"],
+      ["/epilogue/", "Epilogue"]
     ],
     repo: "cesletter/book",
     repoLabel: "Contribute!",
