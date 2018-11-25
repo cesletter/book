@@ -4,7 +4,7 @@
     <div class="reference" v-if="!referenceLink && reference">{{reference}}</div>
     <div class="above-quote" v-if="aboveQuote" v-html="mdAboveQuote"></div>
     <div v-if="speaker">
-      <strong>{{speaker}}:</strong>
+      <strong class="speaker-name">{{speaker}}:</strong>
       <q v-bind:class="className" v-html="mdQuote"></q>
     </div>
     <q v-if="!speaker" v-bind:class="className" v-html="mdQuote"></q>
@@ -58,6 +58,7 @@ export default {
   margin: 0.5rem 2rem;
 }
 q {
+  display: block;
   quotes: "“" "‘" "”" "’";
   font-style: italic;
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
@@ -105,11 +106,23 @@ footer {
 }
 
 @media only screen and (max-width: 600px) {
+  .IndentedQuote {
+    margin-left: 0;
+    margin-left: 0;
+  }
   q {
     margin-left: 0;
     margin-right: 0;
-    padding-left: 20px;
+    padding-left: 10px;
     border-left: 5px solid #efefef;
+  }
+  q.no-border {
+    border-left: none;
+  }
+  .speaker-name {
+    padding-top: 1.2rem;
+    padding-bottom: 0.8rem;
+    display: block;
   }
 }
 </style>

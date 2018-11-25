@@ -1,5 +1,5 @@
 <template>
-  <div class="scripture-quote">
+  <div class="ScriptureQuote">
     <a class="reference" v-if="link" :href="link" target="_blank">{{reference}}</a>
     <div class="reference" v-else>{{reference}}</div>
     <div v-if="description" class="description">{{description}}</div>
@@ -20,7 +20,7 @@ export default {
 </script>
 
 <style scoped>
-.scripture-quote {
+.ScriptureQuote {
   padding: 0.5rem 1.5rem;
   text-align: center;
 }
@@ -49,7 +49,8 @@ export default {
 
 @media only screen and (max-width: 600px) {
   .scripture-quote {
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
   .scripture {
     margin-left: 0;

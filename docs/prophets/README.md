@@ -94,10 +94,12 @@ In a September 1998 _Larry King Live_ [interview](https://cesletter.org/polygamy
 
 <IndentedQuote
   speaker="Larry King"
+  className="no-border"
   quote="You condemn it [polygamy]?" />
 
 <IndentedQuote
   speaker="Hinckley"
+  className="no-border"
   quote="I condemn it. Yes, as a practice, because I think it is not doctrinal." />
 
 Contrary to President Hinckley’s statement, we still have Doctrine & Covenants 132 in our canonized scriptures. We're also still practicing plural marriage in the Temples by permitting men to be sealed to more than one woman (so long as only one is living). Apostles Elder Oaks, Elder Perry, and Elder Nelson are modern examples of LDS polygamists in that they're sealed to multiple women.

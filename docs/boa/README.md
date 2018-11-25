@@ -573,11 +573,14 @@ of Abraham in a March 2012 [BBC interview](https://cesletter.org/boa/33):
 
 <IndentedQuote
   speaker="Sweeney"
+  className="no-border"
   quote="Mr. Smith got this papyri and he translated them and subsequently as the Egyptologists cracked the code something completely different..."
 />
 
 <IndentedQuote
   speaker="Holland"
+  class="no-border"
+  className="no-border"
   quote="(Interrupts) All I’m saying...all I’m saying is that what got translated got translated into the word of God. The vehicle for that, I do not understand and don’t claim to know and know no Egyptian."
 />
 
