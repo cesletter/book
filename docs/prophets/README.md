@@ -136,7 +136,7 @@ Yesterday’s doctrine is today’s false doctrine. Yesterday’s 10 prophets ar
 
 In the early to mid-1980s, the Church paid hundreds of thousands of dollars in expensive and valuable antiquities and cash to [Mark Hofmann](https://www.cesletter.org/prophets/25) – a con man and soon-to-be serial killer – to purchase and suppress bizarre and embarrassing documents into the Church vaults that undermined and threatened the Church’s story of its origins. The documents were later proven to be forgeries.
 
-<ImageWithCaption src="/images/placeholder.jpg" />
+<ImageWithCaption src="/images/prophets-mark-hoffman.jpg" />
 
 * The lack of discernment by the Brethren on such a grave threat to the Church is troubling.
 * Speeches by [Elder Dallin H. Oaks](https://www.cesletter.org/prophets/26) and [President Gordon B. Hinckley](https://www.cesletter.org/prophets/27) offered apologetic explanations for troubling documents ([Salamander Letter](https://www.cesletter.org/prophets/27) and [Joseph Smith III Blessing](https://www.cesletter.org/prophets/29)) that later ended up, unbeknownst to Elder Oaks and President Hinckley at the time of their apologetic talks, being proven complete fakes and forgeries.

@@ -17,10 +17,10 @@ In other words, Joseph used the same magic device or “Ouija Board” that he u
 
 ___UPDATE___: These facts are now officially confirmed in the Church’s December 2013 _[Book of Mormon Translation](https://www.cesletter.org/bom-translation)_ essay. The Church later admitted these facts in its [October 2015 _Ensign_](https://www.cesletter.org/bom-translation/5), where they include a photograph of the actual rock that Joseph Smith used to place in his hat for the Book of Mormon translation. Additional photos of the rock can be viewed on [lds.org](https://www.cesletter.org/bom-translation/6). In June 2016, President Dieter F. Uchtdorf posted on his Facebook page [comparing the seer stone in the hat Book of Mormon translation to his iPhone](https://www.cesletter.org/bom-translation/7). FairMormon posted [new Book of Mormon translation artwork](https://www.cesletter.org/bom-translation/8) showing Joseph Smith’s face in a hat.
 
-<ImageWithCaption src="/images/placeholder.jpg"
+<ImageWithCaption src="/images/bom-translation-portrayals.jpg"
   title="Book of Mormon Translation that the Church portrayed and still portrays to its members:" />
 
-<ImageWithCaption src="/images/placeholder.jpg"
+<ImageWithCaption src="/images/bom-translation-actual.jpg"
   title="Book of Mormon Translation as it actually happened" />
 
 Since learning this disturbing new information and feeling betrayed, I have been attacked and gaslighted by revisionist Mormon apologists claiming that it’s my fault and the fault of anyone else for not knowing this. “The information was there all along,” they say. “You should’ve known this,” they claim.

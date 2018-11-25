@@ -23,18 +23,18 @@ We know this is the papyrus that Joseph used for translation because the hierogl
 <IndentedQuote quote="None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the Book of Abraham, though there is not unanimity, even among non-Mormon scholars, about the proper interpretation of the vignettes on these fragments. Scholars have identified the papyrus fragments as parts of standard funerary texts that were deposited with mummified bodies. These fragments date to between the third century B.C.E. and the first century C.E., long after Abraham lived." />
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/boa-facsimile-1.jpg"
   title="Facsimile 1"
   above="The graphic below shows the rediscovered papyri placed on top of Facsimile 1. The red circles denote the filled-in sections of facsimile 1 that respected modern Egyptologists say is nonsense."
 />
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/boa-facsimile-1-actual.jpg"
   above="In contrast with the canonized version of Facsimile 1, the following image is what Facsimile 1 is really supposed to look like, based on Egyptology and the same scene discovered elsewhere in Egypt:"
 />
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/boa-facsimile-1-compare.jpg"
   above="The following is a side-by-side comparison of what Joseph Smith translated in Facsimile 1 and what it actually says, according to Egyptologists and modern Egyptology:"
 />
 
@@ -175,12 +175,12 @@ We know this is the papyrus that Joseph used for translation because the hierogl
 </div>
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/boa-facsimile-1-anubis.jpg"
   above="Figure #3 is supposed to be the jackal-headed Egyptian god of mummification and afterlife, [Anubis](https://www.cesletter.org/boa/11); not a human. The following images show similar funerary scenes which have been discovered elsewhere in Egypt. Notice that the jackal-headed Egyptian god of death and afterlife Anubis is consistent in every funerary scene."
 />
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/boa-facsimile-2.jpg"
   title="Facsimile 2"
   above="The following is a side-by-side comparison of what Joseph Smith translated in Facsimile 2 versus what it actually says according to Egyptologists and modern Egyptology:"
 />
@@ -387,7 +387,7 @@ We know this is the papyrus that Joseph used for translation because the hierogl
 One of the most disturbing facts I discovered in my research of Facsimile 2 is figure #7. Joseph Smith said that this is “God sitting on his throne...” It’s actually [Min](https://www.cesletter.org/boa/15), the pagan Egyptian god of fertility or sex. Min is sitting on a throne with an erect penis (which can be seen in the figure). In other words, Joseph interpreted that this figure with an erect penis is Heavenly Father sitting on His throne.
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/boa-facsimile-3.jpg"
   title="Facsimile 3"
   above="The following is a side-by-side comparison of what Joseph Smith translated in Facsimile 3 versus what it actually says according to Egyptologists and modern Egyptology:"
 />

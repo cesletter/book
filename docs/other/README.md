@@ -169,7 +169,7 @@ After revealing “Church of Jesus Christ” on April 6, 1830, Joseph Smith made
 
 <ImageWithCaption
   title="KIRTLAND TEMPLE"
-  src="/images/placeholder.jpg"
+  src="/images/other-temple.jpg"
 />
 
 Four years later on April 26, 1838, the Church name was changed to “The Church of Jesus Christ of Latter Day Saints” and has remained ever since (except the hyphen was added later to be grammatically correct).

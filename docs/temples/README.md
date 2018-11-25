@@ -67,7 +67,7 @@ Is God really going to require individuals to know secret tokens, handshakes, an
 
 Does the eternal salvation, eternal happiness, and eternal families really depend on Masonic rituals in multi-million dollar castles? Is God really going to separate good couples and their children who love one another and who want to be together in the next life because they object to uncomfortable and strange Masonic Temple rituals and a polygamous heaven?
 
-<ImageWithCaption src="/images/placeholder.jpg" />
+<ImageWithCaption src="/images/temples-masonic-handshake.jpg" />
 
 <IndentedQuote
   quote="PETER: ‘___The five points of fellowship___ are: inside of right foot by the side of right foot, knee to knee, breast to breast, hand to back, and mouth to ear.’"

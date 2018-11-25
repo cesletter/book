@@ -150,13 +150,13 @@ It’s when you take this snapshot of Joseph’s character and start looking int
 Today, Warren Jeffs is more closely aligned to Joseph Smith’s Mormonism than the modern LDS Church is.
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/polygamy-joseph-vs-warren.jpg"
   title="Joseph Smith vs. Warren Jeffs"
   below="_*Sources*: [cesletter.org/polygamy/54](http://cesletter.org/polygamy/54)_"
 />
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/polygamy-joseph-smith-polygamy.jpg"
   title="Joseph Smith's Polygamy | Polyandry"
   below="_*Sources*: [cesletter.org/polygamy/55](http://cesletter.org/polygamy/55)_"
 />

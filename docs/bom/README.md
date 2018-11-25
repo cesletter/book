@@ -124,9 +124,9 @@ Book of Mormon Geography: Many Book of Mormon names and places are strikingly si
 
 The following two maps show Book of Mormon geography compared to Joseph Smith’s geography.
 
-<ImageWithCaption src="/images/placeholder.jpg" title="Book of Mormon Geography" />
+<ImageWithCaption src="/images/bom-geography.jpg" title="Book of Mormon Geography" />
 
-<ImageWithCaption src="/images/placeholder.jpg" title="Joseph Smith's Geography" above="(Northeast United States & Southeast Canada)" />
+<ImageWithCaption src="/images/bom-joseph-smith-geography.jpg" title="Joseph Smith's Geography" above="(Northeast United States & Southeast Canada)" />
 
 The first map is the “proposed map,” constructed from internal comparisons in the Book of Mormon.
 
@@ -153,7 +153,7 @@ ___UPDATE___: Additional information and analysis can be found at [cesletter.org
 
 Off the eastern coast of Mozambique in Africa is an island country called “[Comoros](https://www.cesletter.org/bom/26).” Prior to its French occupation in 1841, the islands were known by its Arabic name, “Camora.” There is an 1808 map of Africa that refers to the islands as “Camora.”
 
-<ImageWithCaption src="/images/placeholder.jpg" below="Camora is near center in the above [1808 Map of Africa](https://www.cesletter.org/bom/27)" />
+<ImageWithCaption src="/images/bom-camora.jpg" below="Camora is near center in the above [1808 Map of Africa](https://www.cesletter.org/bom/27)" />
 
 The largest city and capital of Comoros (formerly “Camora”)? [Moroni](https://www.cesletter.org/bom/28). “Camora” and settlement “Moroni” were names in pirate and treasure hunting stories involving Captain William Kidd (a pirate and treasure hunter) which many 19th century New Englanders – especially treasure hunters – were familiar with.
 

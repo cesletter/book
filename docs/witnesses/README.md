@@ -21,7 +21,7 @@ It would not have been unusual during this time for a neighbor, friend, or even 
 
 This is one of the reasons why 21st century Mormons, once including myself, are so confused and bewildered when hearing stuff like Joseph Smith using a peep stone in a hat or Oliver Cowdery using a [divining rod or dowsing rod](https://cesletter.org/witnesses/3) such as illustrated below:
 
-<ImageWithCaption src="/images/placeholder.jpg" />
+<ImageWithCaption src="/images/witnesses-magical-worldview.jpg" />
 
 The use of divining rods (such as the one above) is actually mentioned in the scriptures. In Doctrine & Covenants 8, the following heading provides context for the discussion:
 
@@ -75,7 +75,7 @@ They are 11 witnesses to the Book of Mormon: Martin Harris, Oliver Cowdery, Hira
 
 The following are several facts and observations on three of the Book of Mormon Witnesses:
 
-<ImageWithCaption bottomTitle="Martin Harris" src="/images/placeholder.jpg" />
+<ImageWithCaption bottomTitle="Martin Harris" src="/images/witnesses-martin-harris.jpg" />
 
 Martin Harris was anything but a skeptical witness. He was known by many of his peers as an unstable, gullible, and superstitious man. Brigham Young once said of Martin:
 
@@ -123,7 +123,7 @@ If someone testified to you of an unusual spiritual encounter he had, but he als
 
 With inconsistencies, a conflict of interest, magical thinking, and superstition like this, exactly what credibility does Martin Harris have and why should I believe him?
 
-<ImageWithCaption bottomTitle="David Whitmer" src="/images/placeholder.jpg" />
+<ImageWithCaption bottomTitle="David Whitmer" src="/images/witnesses-david-whitmer.jpg" />
 
 <IndentedQuote
   quote="David claimed in early June 1829 before their group declaration that he, Cowdery, and Joseph Smith observed ‘one of the Nephites’ carrying the records in a knapsack on his way to Cumorah. Several days later this trio perceived ‘that the Same Person was under the shed’ at the Whitmer farm."
@@ -148,7 +148,7 @@ Whitmer’s testimony also included the following:
 
 If David Whitmer is a credible witness, why are we only using his testimony of the Book of Mormon while ignoring his other testimony claiming that God Himself spoke to Whitmer “by his own voice from the heavens” in June 1838, commanding Whitmer to apostatize from the Lord’s one and only true Church?
 
-<ImageWithCaption bottomTitle="Oliver Cowdery" src="/images/placeholder.jpg" />
+<ImageWithCaption bottomTitle="Oliver Cowdery" src="/images/witnesses-oliver-cowdery.jpg" />
 
 Like Joseph and most of the Book of Mormon witnesses, Oliver Cowdery and his family were treasure hunters. Oliver’s preferred tool of trade, as mentioned above, was the divining rod. He was known as a “rodsman.” Along with the witnesses, Oliver held a magical worldview.
 
@@ -220,7 +220,7 @@ Why couldn’t Martin just simply answer “yes”?
 
 <ImageWithCaption
   title="James Strang and Voree Plates Witnesses"
-  src="/images/placeholder.jpg"
+  src="/images/witnesses-james-strang.jpg"
 />
 
 [James Strang](https://cesletter.org/witnesses/17) and his claims are fascinating. He was basically Joseph Smith 2.0 – but with a twist. Like Joseph, Strang did the following:
@@ -255,11 +255,11 @@ In addition to the above 7 witnesses, there were 4 witnesses who went with Stran
 
 <ImageWithCaption 
   below="Voree Plates Facsimiles"
-  src="/images/placeholder.jpg" />
+  src="/images/witnesses-voree-plates-facsimile.jpg" />
 
 <ImageWithCaption 
   below="The Book of the Law of the Lord"
-  src="/images/placeholder.jpg" />
+  src="/images/witnesses-book-of-the-law.jpg" />
 
 Like Joseph, Strang had a scribe (Samuel Graham) who wrote as Strang translated. Along with several of the witnesses, Graham was later excommunicated from Strang’s Church.
 
@@ -273,7 +273,7 @@ The closest thing we have in existence to an original document of the testimonie
 
 <ImageWithCaption 
   below="Closest Original to Testimony of Witnesses"
-  src="/images/placeholder.jpg" />
+  src="/images/witnesses-signatures.jpg" />
 
 While we have “testimonies” from the witnesses recorded in later years through interviews and second eyewitness accounts and affidavits, many of the “testimonies” given by some of the witnesses do not match the claims and wording of the preface statements in the Book of Mormon.
 
@@ -373,7 +373,7 @@ The Shakers and Ann Lee:
 The Shakers felt that “Christ has made his second appearance on earth, in a chosen female known by the name of Ann Lee, and acknowledged by us as our Blessed Mother in the work of redemption” (_Sacred Roll and Book_, p.358). The Shakers had a sacred book entitled _[A Holy, Sacred and Divine Roll and Book; From the Lord God of Heaven, to the Inhabitants of Earth](https://cesletter.org/witnesses/35)_.
 
 <ImageWithCaption
-  src="/images/placeholder.jpg"
+  src="/images/witnesses-shakers.jpg"
 />
 
 More than 60 individuals gave testimony to the _Sacred Roll and Book_, which was published in 1843. Although not all of them mention angels appearing, some of them tell of many angels visiting them. One woman told of eight different visions.
@@ -399,9 +399,7 @@ At the end of the day? It all doesn’t matter. The Book of Mormon Witnesses and
 
 #### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center text-red"}
 
-<ImageWithCaption src="/images/placeholder.jpg" />
-
-<ImageWithCaption src="/images/placeholder.jpg" />
+<ImageWithCaption src="/images/witnesses-plates-hat.jpg" />
 
 _Ancient prophets go through all the time, trouble, and effort in making, engraving, compiling, abridging, preserving, transporting, hiding, and burying gold plates._
 

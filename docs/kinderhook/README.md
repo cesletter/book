@@ -27,7 +27,7 @@
 
 <ImageWithCaption
   title="FACSIMILES OF THE SIX DOUBLE-SIDED KINDERHOOK PLATES"
-  src="/images/placeholder.jpg"
+  src="/images/kinderhook-facsimile.jpg"
 />
 
 <table class="no-striped">
@@ -72,7 +72,7 @@ A rock he [found digging in his neighbor’s property](https://www.cesletter.org
 
 <hr class="divider" />
 
-<ImageWithCaption src="/images/placeholder.jpg" />
+<ImageWithCaption src="/images/kinderhook-ancient-records.jpg" />
 
 Joseph Smith claimed to have translated three ancient records. The Book of Abraham: proven a fraud. The Kinderhook Plates: found to be a hoax. The Book of Mormon: the only one of the three for which we do not have the original. I’m sure he was only wrong on two out of three.
 
