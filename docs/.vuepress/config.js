@@ -42,9 +42,9 @@ module.exports = {
     ],
     repo: "cesletter/book",
     docsRepo: "cesletter/book",
-    repoLabel: "Contribute!",
+    repoLabel: "GitHub",
     editLinks: false,
-    editLinkText: 'Help us improve this page!'
+    editLinkText: "Help us improve this page!"
   },
   locales: {
     // The key is the path for the locale to be nested under.
