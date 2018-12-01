@@ -55,14 +55,16 @@ export default {
 
 <style scoped>
 .IndentedQuote {
-  margin: 0.5rem 2rem;
+  margin: 0.5rem 2rem 0.5rem 0;
 }
 q {
   display: block;
-  quotes: "“" "‘" "”" "’";
+  quotes: "“" "”" "‘" "’";
   font-style: italic;
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
   line-height: 1.85rem;
+  padding-left: 15px;
+  border-left: 5px solid #efefef;
 }
 q.no-quotation-marks {
   quotes: "" "" "" "";
@@ -95,7 +97,7 @@ q:after {
   padding-bottom: 0.5rem;
 }
 footer {
-  margin: 0.35rem 0 1.25rem;
+  margin: 0.5rem 0 1.25rem 1.25rem;
   text-align: left;
   font-size: 0.8rem;
   line-height: 1.25rem;
@@ -103,6 +105,11 @@ footer {
 }
 .italic {
   font-style: italic;
+}
+.speaker-name {
+  padding-top: 0.4rem;
+  padding-bottom: 0.8rem;
+  display: block;
 }
 
 @media only screen and (max-width: 600px) {
@@ -113,8 +120,6 @@ footer {
   q {
     margin-left: 0;
     margin-right: 0;
-    padding-left: 10px;
-    border-left: 5px solid #efefef;
   }
   q.no-border {
     border-left: none;

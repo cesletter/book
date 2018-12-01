@@ -5,12 +5,12 @@
 
 <QuoteWithReference
   quote="Our whole strength rests on the validity of that [first] vision. It either occurred or it did not occur. If it did not, then this work is a fraud. If it did, then it is the most important and wonderful work under the heavens."
-  attribution="President Gordon B. Hinkley"
+  attribution="President Gordon B. Hinckley"
   source="The Marvelous Foundation of our Faith"
   link="https://www.cesletter.org/first-vision/1"
 />
 
-## 1
+## Four Different Accounts
 
 There are at least 4 different [first vision accounts](https://www.cesletter.org/first-vision) by Joseph Smith, which the Church admits in its November 2013 First Vision Accounts essay:
 
@@ -29,9 +29,9 @@ In the only handwritten account by Joseph Smith, penned in 1832, but not publicl
 * No reference to asking the question about which church he should join.
 * No description of being attacked by Satan.
 
-## 2
+## Contradictions
 
-Contradictions: In the [1832 account](https://www.cesletter.org/first-vision/3), Joseph wrote that before praying he knew there was no true or living faith or denomination upon the earth as built by Jesus Christ in the New Testament. His primary purpose in going to prayer was to seek forgiveness for his sins.
+In the [1832 account](https://www.cesletter.org/first-vision/3), Joseph wrote that before praying he knew there was no true or living faith or denomination upon the earth as built by Jesus Christ in the New Testament. His primary purpose in going to prayer was to seek forgiveness for his sins.
 
 <IndentedQuote quote="...by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatized from the true and living faith, and there was no society or denomination that was built upon the gospel of Jesus Christ..." />
 
@@ -41,9 +41,9 @@ In the official [1838 account](https://www.cesletter.org/first-vision/5), howeve
 
 This is in direct contradiction to his 1832 first vision account.
 
-## 3
+## Late Appearance
 
-Late appearance of claims: No one - including Joseph Smith’s family members and the Saints – had ever heard about the first vision from twelve to twenty-two years after it supposedly occurred. The first and earliest written account of the first vision in Joseph Smith’s journal was 12 years after the spring of 1820. There is absolutely no record of any claimed “first vision” prior to this 1832 account.
+No one - including Joseph Smith’s family members and the Saints – had ever heard about the first vision from twelve to twenty-two years after it supposedly occurred. The first and earliest written account of the first vision in Joseph Smith’s journal was 12 years after the spring of 1820. There is absolutely no record of any claimed “first vision” prior to this 1832 account.
 
 Despite the emphasis placed on it now, the first vision does not appear to have been widely taught to members of the Church until the 1840s, more than a decade after the Church was founded, and 20 years after it allegedly occurred.
 
@@ -51,9 +51,7 @@ James B. Allen, former BYU Professor and Assistant Church Historian [explains](h
 
 <IndentedQuote quote="There is little if any evidence, however, that by the early 1830’s Joseph Smith was telling the story in public. At least if he were telling it, no one seemed to consider it important enough to have recorded it at the time, and no one was criticizing him for it. Not even in his own history did Joseph Smith mention being criticized in this period for telling the story of the first vision...The fact that none of the available contemporary writings about Joseph Smith in the 1830’s, none of the publications of the Church in that decade, and no contemporary journal or correspondence yet discovered mentions the story of the first vision is convincing evidence that at best it received only limited circulation in those early days." />
 
-## 4
-
-Other problems:
+## Other Problems
 
 <ul>
   <li>Who appears to him? Depending upon the account, a spirit, an angel, two angels, Jesus, many angels or the Father and the Son appear to him – are all over the place.</li>

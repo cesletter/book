@@ -16,7 +16,7 @@
   link="https://www.cesletter.org/kinderhook/2"
 />
 
-## 1. Kinderhook Plates
+## Kinderhook Plates
 
 <IndentedQuote
   quote="Church historians continued to insist on the authenticity of the Kinderhook Plates until 1980 when an examination conducted by the Chicago Historical Society, possessor of one plate, proved it was a nineteenth-century creation."
@@ -56,7 +56,7 @@
 * The plates were named after the town in which they were found - Kinderhook, IL. A farmer claimed he dug the plates out of a mound. They took the plates to Joseph Smith for examination and he translated a portion.
 * Not only did Joseph not discern the fraud, he added to the fraud by “translating” the fake plates. The LDS Church now concedes it’s a hoax. What does this tell us about Joseph Smith’s gift of translation?
 
-## 2. Book of Abraham
+## Book of Abraham
 
 As outlined in the “Book of Abraham” section, Joseph Smith got everything wrong about the papyri, the facsimiles, the names, the gods, the scene context, the fact that the papyri and facsimiles were first century C.E. funerary text, who was male, who was female, etc. It’s gibberish.
 

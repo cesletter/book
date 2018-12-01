@@ -35,7 +35,8 @@ blockquote{
 }
 
 blockquote:before {
-  content: open-quote;
+  content: '"';
+  font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
   display: inline;
   line-height: 0;
   left: -20px;

@@ -25,7 +25,7 @@
 
 (2013 “Prophets, Seers, and Revelators” throwing yesterday’s “Prophets, Seers, and Revelators” under the bus over yesterday’s racist revelations and doctrines)
 
-## 1. Adam-God
+## Adam-God
 
 President Brigham Young taught what is now known as “[Adam–God theory](https://www.cesletter.org/prophets/4).” He taught that Adam is “our Father and our God, and the only God with whom we have to do.” Brigham not only taught this doctrine over the pulpit in conferences in [1852](https://www.cesletter.org/prophets/5) and [1854](https://www.cesletter.org/prophets/5) but he also introduced this doctrine as the [Lecture at the Veil](https://www.cesletter.org/prophets/7) in the endowment ceremony of the Temple.
 
@@ -52,7 +52,7 @@ Ironically, Elder McConkie’s June 1980 condemnation asks you to trust him and 
 
 Yesterday’s doctrine is today’s false doctrine and yesterday’s prophet is today’s heretic.
 
-## 2. Blood Atonement
+## Blood Atonement
 
 Along with Adam-God, Brigham taught a doctrine known as “[Blood Atonement](https://www.cesletter.org/prophets/11)” where a person’s blood had to be shed to atone for their own sins as it was beyond the atonement of Jesus Christ.
 
@@ -65,13 +65,13 @@ Along with Adam-God, Brigham taught a doctrine known as “[Blood Atonement](htt
   link="https://www.cesletter.org/prophets/12"
 />
 
-___UPDATE___: The Church now confirms in its _[Peace and Violence among 19th-Century Latter-day Saints](https://www.cesletter.org/prophets/13)_ essay that Blood Atonement was taught by the prophet Brigham Young.
+<strong class="text-red">UPDATE:</strong> The Church now confirms in its _[Peace and Violence among 19th-Century Latter-day Saints](https://www.cesletter.org/prophets/13)_ essay that Blood Atonement was taught by the prophet Brigham Young.
 
 As with the Adam-God theory, the Blood Atonement doctrine was later declared false by subsequent prophets and apostles.
 
 Yesterday’s doctrine is today’s false doctrine. Yesterday’s prophet is today’s heretic.
 
-## 3. Polygamy
+## Polygamy
 
 Brigham Young taught the doctrine that polygamy is required for exaltation:
 
@@ -106,7 +106,7 @@ Contrary to President Hinckley’s statement, we still have Doctrine & Covenants
 
 Polygamy is doctrinal. Polygamy is not doctrinal. Yesterday's doctrine is today's false doctrine. Yesterday's prophets are today's heretics.
 
-## 4. Blacks Ban
+## Blacks Ban
 
 As you know, for close to 130 years blacks were not only banned from holding the priesthood but black individuals and black families were blocked from the saving ordinances of the Temple. Every single prophet from Brigham Young all the way to Harold B. Lee kept this ban in place.
 
@@ -134,7 +134,7 @@ How can we trust these “Prophets, Seers, and Revelators,” who have been so w
 
 Yesterday’s doctrine is today’s false doctrine. Yesterday’s 10 prophets are today’s heretics.
 
-## 5. Mark Hofmann
+## Mark Hofmann
 
 In the early to mid-1980s, the Church paid hundreds of thousands of dollars in expensive and valuable antiquities and cash to [Mark Hofmann](https://www.cesletter.org/prophets/25) – a con man and soon-to-be serial killer – to purchase and suppress bizarre and embarrassing documents into the Church vaults that undermined and threatened the Church’s story of its origins. The documents were later proven to be forgeries.
 

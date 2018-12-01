@@ -10,21 +10,22 @@
   link="https://www.cesletter.org/boa"
 />
 
-## 1
+## By His Own Hand?
 
 Originally, Joseph claimed that this record was written by Abraham “[by his own hand, upon papyrus](https://www.cesletter.org/boa/2)” – a claim still prominent in the heading of the Book of Abraham. This claim could not be evaluated for decades as many thought the papyri were lost in a fire. The original papyrus Joseph translated has since been found and, as stated in the Church’s July 2014 _[Translation and Historicity of the Book of Abraham](https://www.cesletter.org/boa)_ essay, “scholars have identified the papyrus fragments as parts of standard funerary texts...[that] date to between the third century B.C.E. and the first century C.E., long after Abraham lived.”
 
 We know this is the papyrus that Joseph used for translation because the hieroglyphics match in chronological order to the hieroglyphics in Joseph’s _[Kirtland Egyptian Papers](https://www.cesletter.org/boa/4)_, which contains his _[Grammar & Alphabet of the Egyptian Language](https://www.cesletter.org/boa/5)_ (GAEL). Additionally, the papyrus were pasted onto paper which have drawings of a temple and maps of the Kirtland, Ohio area on the back and they were companied by an affidavit by Emma Smith verifying they had been in the possession of Joseph Smith.
 
-## 2
+## Facsimile Discrepancies
 
 [Egyptologists have also since translated the source material](https://www.cesletter.org/boa/6) for the Book of Abraham and have found it to be nothing more than a common pagan Egyptian funerary text for a deceased man named “Hor” around first century C.E. In other words, it was a common Breathing Permit that the Egyptians buried with their dead. It has nothing to do with Abraham or anything Joseph claimed in his translation for the Book of Abraham. The Church admits this in its [essay](https://www.cesletter.org/boa):
 
 <IndentedQuote quote="None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham. Mormon and non-Mormon Egyptologists agree that the characters on the fragments do not match the translation given in the Book of Abraham, though there is not unanimity, even among non-Mormon scholars, about the proper interpretation of the vignettes on these fragments. Scholars have identified the papyrus fragments as parts of standard funerary texts that were deposited with mummified bodies. These fragments date to between the third century B.C.E. and the first century C.E., long after Abraham lived." />
 
+### Facsimile 1
+
 <ImageWithCaption
   src="/images/boa-facsimile-1.jpg"
-  title="Facsimile 1"
   above="The graphic below shows the rediscovered papyri placed on top of Facsimile 1. The red circles denote the filled-in sections of facsimile 1 that respected modern Egyptologists say is nonsense."
 />
 
@@ -161,7 +162,7 @@ We know this is the papyrus that Joseph used for translation because the hierogl
 
 <div class="text-italic">
   <strong>Sources:</strong><br>
-  <ul class="list-unstyled">
+  <ul class="list-sources">
     <li>
       Joseph Smith’s Translations: <a href="https://www.cesletter.org/boa/8" target="_blank">Facsimile 1 in Book of Abraham</a>
     </li>
@@ -179,9 +180,10 @@ We know this is the papyrus that Joseph used for translation because the hierogl
   above="Figure #3 is supposed to be the jackal-headed Egyptian god of mummification and afterlife, [Anubis](https://www.cesletter.org/boa/11); not a human. The following images show similar funerary scenes which have been discovered elsewhere in Egypt. Notice that the jackal-headed Egyptian god of death and afterlife Anubis is consistent in every funerary scene."
 />
 
+### Facsimile 2
+
 <ImageWithCaption
   src="/images/boa-facsimile-2.jpg"
-  title="Facsimile 2"
   above="The following is a side-by-side comparison of what Joseph Smith translated in Facsimile 2 versus what it actually says according to Egyptologists and modern Egyptology:"
 />
 
@@ -371,7 +373,7 @@ We know this is the papyrus that Joseph used for translation because the hierogl
 
 <div class="text-italic">
   <strong>Sources:</strong><br>
-  <ul class="list-unstyled">
+  <ul class="list-sources">
     <li>
       Joseph Smith’s Translations: <a href="https://www.cesletter.org/boa/12" target="_blank">Facsimile 2 in Book of Abraham</a>
     </li>
@@ -386,11 +388,14 @@ We know this is the papyrus that Joseph used for translation because the hierogl
 
 One of the most disturbing facts I discovered in my research of Facsimile 2 is figure #7. Joseph Smith said that this is “God sitting on his throne...” It’s actually [Min](https://www.cesletter.org/boa/15), the pagan Egyptian god of fertility or sex. Min is sitting on a throne with an erect penis (which can be seen in the figure). In other words, Joseph interpreted that this figure with an erect penis is Heavenly Father sitting on His throne.
 
+### Facsimile 3
+
 <ImageWithCaption
   src="/images/boa-facsimile-3.jpg"
-  title="Facsimile 3"
   above="The following is a side-by-side comparison of what Joseph Smith translated in Facsimile 3 versus what it actually says according to Egyptologists and modern Egyptology:"
 />
+
+# Todo: Eric fix table to be 2 columns
 
 <table>
   <thead>
@@ -463,7 +468,7 @@ One of the most disturbing facts I discovered in my research of Facsimile 2 is f
 
 <div class="text-italic">
   <strong>Sources:</strong><br>
-  <ul class="list-unstyled">
+  <ul class="list-sources">
     <li>
       Joseph Smith’s Translations: <a href="https://www.cesletter.org/boa/16" target="_blank">Facsimile 3 in Book of Abraham</a>
     </li>

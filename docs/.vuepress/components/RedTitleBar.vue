@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="RedTitleBar">
     <div class="title">{{title}}</div>
     <div v-if="subtitle" class="subtitle">{{subtitle}}</div>
   </section>
@@ -12,6 +12,10 @@ export default {
 </script>
 
 <style scoped>
+.RedTitleBar {
+  margin-left: -24px;
+  margin-right: -24px;
+}
 section {
   background-color: #fa3725;
   color: white;

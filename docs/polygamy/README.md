@@ -17,7 +17,7 @@ One of the things that also truly disturbed me in my research was discovering th
 * Joseph Smith was married to at [least 34 women](https://www.cesletter.org/polygamy/3), as now verified in the Church’s 2014 polygamy essays.
 * [Polyandry](https://www.cesletter.org/polygamy/4): Of those 34 women, 11 of them were married women of other living men. Among them being Apostle Orson Hyde, who was sent on his mission to dedicate Palestine when Joseph secretly married his wife, [Marinda Hyde](https://www.cesletter.org/polygamy/5). [Church Historian Elder Marlin K. Jensen](https://www.cesletter.org/polygamy/6) and unofficial apologists like [FairMormon](https://www.cesletter.org/polygamy/7) do not dispute the polyandry.
 
-___UPDATE___: The Church admits the polyandry in its October 2014 _[Plural Marriage in Kirtland and Nauvoo](https://www.cesletter.org/polygamy)_ essay.
+<strong class="text-red">UPDATE:</strong> The Church admits the polyandry in its October 2014 _[Plural Marriage in Kirtland and Nauvoo](https://www.cesletter.org/polygamy)_ essay.
 
 The Church and apologists now attempt to justify these polyandrous marriages by theorizing that they probably didn’t include sexual relations and thus were “eternal” or “dynastic” sealings only. How is not having sex with a living man’s wife on earth only to take her away from him in the eternities to be one of your [Joseph] forty wives any better or any less immoral?
 
@@ -33,7 +33,7 @@ If Joseph’s polygamous/polyandrous marriages are innocuous “dynastic sealing
 
 * Out of the 34 women, 7 of them were teenage girls as young as 14-years-old. Joseph was 37-years-old when he married 14-year-old [Helen Mar Kimball](https://www.cesletter.org/polygamy/10), twenty-three years his junior. Even by 19th century standards, this is shocking.
 
-___UPDATE___: The Church now admits that Joseph Smith married Helen Mar Kimball “several months before her 15th birthday” in its October 2014 _[Plural Marriage in Kirtland and Nauvoo](https://www.cesletter.org/polygamy)_ essay.
+<strong class="text-red">UPDATE:</strong> The Church now admits that Joseph Smith married Helen Mar Kimball “several months before her 15th birthday” in its October 2014 _[Plural Marriage in Kirtland and Nauvoo](https://www.cesletter.org/polygamy)_ essay.
 
 Joseph took 14-year-old Helen Mar Kimball’s hand in marriage after his disturbing Abrahamic test on her father, Heber, while promising Helen and her family eternal salvation and exaltation if she accepted:
 

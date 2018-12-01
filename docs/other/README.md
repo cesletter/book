@@ -43,7 +43,7 @@ In sharp contrast to the above statement:
 
 Along with the above First Presidency statement, there are many other statements and explanations made by prophets and apostles clearly “justifying” the Church’s racism. So, the 2013 edition Official Declaration 2 Header in the scriptures is not only misleading, it’s dishonest. We do have records – including from the First Presidency itself – with very clear insights on the origins of the ban on the blacks.
 
-___UPDATE___: The Church released a _[Race and the Priesthood](https://www.cesletter.org/race)_ essay which contradicts their [2013 Official Declaration 2 Header](https://www.cesletter.org/other/3). In the essay, they point to Brigham Young as the originator of the ban. Further, they effectively throw 10 latter-day “Prophets, Seers, and Revelators” under the bus as they “disavow” the “theories” that these ten men taught and justified – for 130 years – as doctrine and revelation for the Church’s institutional and theological racism. Finally, they denounce the idea that God punishes individuals with black skin or that God withholds blessings based on the color of one’s skin while completely ignoring the [contradiction](https://www.cesletter.org/other/7) of the keystone Book of Mormon teaching exactly this.
+<strong class="text-red">UPDATE:</strong> The Church released a _[Race and the Priesthood](https://www.cesletter.org/race)_ essay which contradicts their [2013 Official Declaration 2 Header](https://www.cesletter.org/other/3). In the essay, they point to Brigham Young as the originator of the ban. Further, they effectively throw 10 latter-day “Prophets, Seers, and Revelators” under the bus as they “disavow” the “theories” that these ten men taught and justified – for 130 years – as doctrine and revelation for the Church’s institutional and theological racism. Finally, they denounce the idea that God punishes individuals with black skin or that God withholds blessings based on the color of one’s skin while completely ignoring the [contradiction](https://www.cesletter.org/other/7) of the keystone Book of Mormon teaching exactly this.
 
 #### ZINA DIANTHA HUNTINGTON YOUNG {."spaced-title text-center text-red"}
 
@@ -250,7 +250,7 @@ Elder Neil L. Andersen made the following statement in the [October 2014 General
   quote="We might remind the sincere inquirer that Internet information does not have a ‘truth’ filter. Some information, no matter how convincing, is simply not true."
 />
 
-___UPDATE___: Ironically, the only way for members to directly read the Church’s admissions and validations of yesterday’s “anti-Mormon lies” is by going on the internet to the Gospel Topics Essays 41 section of the Church’s website. The essays and their presence on lds.org have disturbed and shocked many members – some to the point of even believing that the Church’s website has been hacked.
+<strong class="text-red">UPDATE:</strong> Ironically, the only way for members to directly read the Church’s admissions and validations of yesterday’s “anti-Mormon lies” is by going on the internet to the Gospel Topics Essays 41 section of the Church’s website. The essays and their presence on lds.org have disturbed and shocked many members – some to the point of even believing that the Church’s website has been hacked.
 
 With all this talk from General Authorities against the internet and daring to be balanced by looking at what both defenders and critics are saying about the Church, it is as if questioning and researching and doubting is now the new pornography.
 
