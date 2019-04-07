@@ -2,25 +2,10 @@ module.exports = {
   title: "CES Letter",
   description:
     "CES Letter is one Latter-Day Saint's honest quest to get official answers from the LDS Church on its troubling origins, history, and practices. Jeremy Runnells was offered an opportunity to discuss his own doubts with a director of the Church Educational System (CES) and was assured that his doubts could be resolved. After reading Jeremy's letter, the director promised him a response. No response ever came.",
+  ga: "UA-137864284-1",
   themeConfig: {
-    algolia: {
-      apiKey: "23XSTWUTQA",
-      indexName: "dev_CES_LETTER"
-    },
     nav: [
-      { text: "Home", link: "https://cesletter.org/" },
-      {
-        text: "Debunking",
-        link: "https://cesletter.org/debunking-fairmormon/"
-      },
-      {
-        text: "Sources",
-        link: "https://cesletter.org/sources/"
-      },
-      {
-        text: "Donate",
-        link: "https://cesletter.org/debunking-fairmormon/#donate"
-      }
+      { text: "Home", link: "https://cesletter.org/" }
     ],
     sidebarDepth: 2,
     sidebar: [
