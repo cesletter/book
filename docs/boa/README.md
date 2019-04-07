@@ -10,13 +10,13 @@
   link="https://www.cesletter.org/boa"
 />
 
-## By His Own Hand?
+## 1
 
 Originally, Joseph claimed that this record was written by Abraham “[by his own hand, upon papyrus](https://www.cesletter.org/boa/2)” – a claim still prominent in the heading of the Book of Abraham. This claim could not be evaluated for decades as many thought the papyri were lost in a fire. The original papyrus Joseph translated has since been found and, as stated in the Church’s July 2014 _[Translation and Historicity of the Book of Abraham](https://www.cesletter.org/boa)_ essay, “scholars have identified the papyrus fragments as parts of standard funerary texts...[that] date to between the third century B.C.E. and the first century C.E., long after Abraham lived.”
 
 We know this is the papyrus that Joseph used for translation because the hieroglyphics match in chronological order to the hieroglyphics in Joseph’s _[Kirtland Egyptian Papers](https://www.cesletter.org/boa/4)_, which contains his _[Grammar & Alphabet of the Egyptian Language](https://www.cesletter.org/boa/5)_ (GAEL). Additionally, the papyrus were pasted onto paper which have drawings of a temple and maps of the Kirtland, Ohio area on the back and they were companied by an affidavit by Emma Smith verifying they had been in the possession of Joseph Smith.
 
-## Facsimile Discrepancies
+## 2
 
 [Egyptologists have also since translated the source material](https://www.cesletter.org/boa/6) for the Book of Abraham and have found it to be nothing more than a common pagan Egyptian funerary text for a deceased man named “Hor” around first century C.E. In other words, it was a common Breathing Permit that the Egyptians buried with their dead. It has nothing to do with Abraham or anything Joseph claimed in his translation for the Book of Abraham. The Church admits this in its [essay](https://www.cesletter.org/boa):
 
@@ -394,8 +394,6 @@ One of the most disturbing facts I discovered in my research of Facsimile 2 is f
   src="/images/boa-facsimile-3.jpg"
   above="The following is a side-by-side comparison of what Joseph Smith translated in Facsimile 3 versus what it actually says according to Egyptologists and modern Egyptology:"
 />
-
-# Todo: Eric fix table to be 2 columns
 
 <table>
   <thead>
