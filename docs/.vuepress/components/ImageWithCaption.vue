@@ -31,7 +31,6 @@ export default {
 }
 .title {
   text-align: center;
-  font-size: 1.1rem;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -39,7 +38,6 @@ export default {
 .above, .below {
   margin: 0.5rem auto 0;
   text-align: center;
-  font-size: 1rem;
   font-weight: 300;
   line-height: 1.3rem;
   max-width: 450px;

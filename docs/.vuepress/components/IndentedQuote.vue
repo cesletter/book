@@ -56,6 +56,7 @@ export default {
 <style scoped>
 .IndentedQuote {
   margin: 0.5rem 2rem 0.5rem 0;
+  font-size: 1.1rem;
 }
 q {
   display: block;
@@ -89,7 +90,6 @@ q:after {
 .reference {
   display: block;
   text-align: center;
-  font-size: 1.1rem;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -99,9 +99,9 @@ q:after {
 footer {
   margin: 0.5rem 0 1.25rem 1.25rem;
   text-align: left;
-  font-size: 0.8rem;
-  line-height: 1.25rem;
+  line-height: 1.5rem;
   text-transform: uppercase;
+  font-size: 1rem;
 }
 .italic {
   font-style: italic;

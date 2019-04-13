@@ -94,7 +94,7 @@ Christ's Sermon on the Mount in the Bible and the Book of Mormon are identical. 
   after="...the Lamanites, and they are **among the** ancestors of the American Indians"
 />
 
-<strong class="text-red">UPDATE:</strong> The Church conceded in its January 2014 [Book of Mormon and DNA Studies](https://www.cesletter.org/bom/12) essay that the majority of Native Americans carry largely Asian DNA. The Church, through this essay, makes a major shift in narrative from its past dominant narrative and claims of the origins of the Native American Indians.
+<UpdateBox content="The Church conceded in its January 2014 [Book of Mormon and DNA Studies](https://www.cesletter.org/bom/12) essay that the majority of Native Americans carry largely Asian DNA. The Church, through this essay, makes a major shift in narrative from its past dominant narrative and claims of the origins of the Native American Indians." />
 
 ## Anachronisms
 
@@ -147,7 +147,7 @@ _Source: [Book of Mormon Authorship: A Closer Look, Vernal Holley](http://schola
 
 Why are there so many names similar to Book of Mormon names in the region where Joseph Smith lived? Is this really all just a coincidence?
 
-<strong class="text-red">UPDATE:</strong> Additional information and analysis can be found at [cesletter.org/maps](https://cesletter.org/maps/)
+<UpdateBox content="Additional information and analysis can be found at [cesletter.org/maps](https://cesletter.org/maps/)" />
 
 ### Hill Cumorah
 
@@ -179,114 +179,104 @@ Notice that this is considered “prevalent” and “received by many of our re
 
 The Hill Cumorah and Moroni have absolutely nothing to do with Camora and Moroni from Captain Kidd stories? Stories that Joseph and his treasure hunting family, friends, and community were familiar with? The original 1830 Book of Mormon just happens to have the uniform “Camorah” spelling? This is all just a mere coincidence?
 
-<strong class="text-red">UPDATE:</strong> Additional information and analysis can be found at [cesletter.org/cumorah](https://cesletter.org/cumorah/)
+<UpdateBox content="Additional information and analysis can be found at [cesletter.org/cumorah](https://cesletter.org/cumorah/)" />
 
 <h2 style="font-style: italic;">View of the Hebrews</h2>
 
 There was a book published in 1823 Vermont entitled _[View of the Hebrews](https://www.cesletter.org/bom/33)_. Below is a chart comparing the _View of the Hebrews_ to the Book of Mormon:
 
-# TODO: Eric change this table to be two column
-
-<table>
+<table class="comparison">
   <thead>
     <tr>
-      <th valign="bottom">
+      <th valign="bottom" style="width: 50%;">
         <h3 valign="bottom" class="spaced-title">View of the Hebrews</h3>
         <a href="https://www.cesletter.org/bom/34" class="italicized">Online Source</a>
       </th>
-      <th valign="bottom">
+      <th valign="bottom" style="width: 50%;">
         <h3 class="spaced-title">Book of Mormon</h3>
         <a href="https://www.cesletter.org/bom/35" class="italicized">Online Source</a>
       </th>
     </tr>
   </thead>
-  <tbody class="italicized">
-    <tr style="background-color: #efefef;">
-      <td colspan="2" valign="middle" style="text-align: center;">Published</td>
+  <tbody>
+    <tr class="title">
+      <td colspan="2" valign="middle" >Published</td>
     </tr>
-    <tr style="background-color: #fff;">
-      <td valign="middle" style="text-align: center; width: 50%;">
+    <tr>
+      <td valign="middle">
         1823, first edition<br/>
         1825, second edition
       </td>
-      <td valign="middle" style="text-align: center; width: 50%;">
+      <td valign="middle">
         1830, first edition
       </td>
     </tr>
-    <tr style="background-color: #efefef;">
-      <td colspan="2" valign="middle text-center" style="text-align: center;">The destruction of Jerusalem</td>
-    </tr>
-    <tr style="background-color: #fff;">
-      <td valign="middle" style="text-align: center; width: 50%;">
-        &#10004;
-      </td>
-      <td valign="middle" style="text-align: center; width: 50%;">
-        &#10004;
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>&nbsp;</th>
-      <th valign="bottom">
-        <h3 valign="bottom" class="spaced-title">View of the Hebrews</h3>
-        <a href="https://www.cesletter.org/bom/34" class="italicized">Online Source</a>
-      </th>
-      <th valign="bottom">
-        <h3 class="spaced-title">Book of Mormon</h3>
-        <a href="https://www.cesletter.org/bom/35" class="italicized">Online Source</a>
-      </th>
-    </tr>
-  </thead>
-  <tbody class="italicized">
-    <tr>
-      <td valign="middle" style="width: 40%;">Published</td>
-      <td valign="middle" style="text-align: center; width: 30%;">
-        1823, first edition<br/>
-        1825, second edition
-      </td>
-      <td valign="middle" style="text-align: center; width: 30%;">
-        1830, first edition
-      </td>
+    <tr class="title">
+      <td colspan="2" valign="middle text-center">Location</td>
     </tr>
     <tr>
-      <td valign="middle">Location</td>
-      <td valign="top" style="text-align: center;">
+      <td valign="top">
         Vermont<br/>
         Poultney, Rutland County<br/><br/>
         <strong class="spaced-title">NOTE:</strong> Oliver Cowdery, one of the Book of Mormon witnesses, lived in
         Poutlney when <strong>View of the Hebrews</strong> was published.
       </td>
-      <td valign="top" style="text-align: center;">
+      <td valign="top">
         Vermont<br/>
         Sharon, Windsor County<br/><br/>
         <strong class="spaced-title">NOTE:</strong> Windor County is adjacent to Rutland County.
       </td>
     </tr>
-    <ComparisonTr label="The destruction of Jerusalem" />
-    <ComparisonTr label="The scattering of Israel" />
-    <ComparisonTr label="The restoration of the Ten Tribes" />
-    <ComparisonTr label="THebrews leave the Old World for the New World" />
-    <ComparisonTr label="Religion a motivating factor" />
-    <ComparisonTr label="Migrations a long journey" />
-    <ComparisonTr label="Encounter “seas” of “many waters”" />
-    <ComparisonTr label="The Americas an uninhabited land" />
-    <ComparisonTr label="Settlers journey northward" />
-    <ComparisonTr label="Encounter a valley of a great river" />
-    <ComparisonTr label="A unity of race (Hebrew) settle the land and are the ancestral origin of American Indians" />
-    <ComparisonTr label="Hebrew the origin of Indian language" />
-    <ComparisonTr label="Egyptian hieroglyphics" />
-    <ComparisonTr label="Lost Indian records"
+    <tr class="title">
+      <td colspan="2" valign="middle text-center">The destruction of Jerusalem</td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        &#10004;
+      </td>
+      <td valign="middle">
+        &#10004;
+      </td>
+    </tr>
+    <ComparisonTitle label="The destruction of Jerusalem" />
+    <ComparisonChecks />
+    <ComparisonTitle label="The scattering of Israel" />
+    <ComparisonChecks />
+    <ComparisonTitle label="The restoration of the Ten Tribes" />
+    <ComparisonChecks />
+    <ComparisonTitle label="THebrews leave the Old World for the New World" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Religion a motivating factor" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Migrations a long journey" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Encounter “seas” of “many waters”" />
+    <ComparisonChecks />
+    <ComparisonTitle label="The Americas an uninhabited land" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Settlers journey northward" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Encounter a valley of a great river" />
+    <ComparisonChecks />
+    <ComparisonTitle label="A unity of race (Hebrew) settle the land and are the ancestral origin of American Indians" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Hebrew the origin of Indian language" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Egyptian hieroglyphics" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Lost Indian records" />
+    <ComparisonChecks 
       leftText="A set of “yellow leaves” buried in Indian hill. Elder B.H. Roberts noted the “leaves” may be gold."
       rightText="Joseph Smith claimed the gold plates were buried in Hill Cumorah." />
-    <ComparisonTr label="Breastplate, Urim & Thummim" />
-    <ComparisonTr label="Prophets, spiritually gifted men transmit generational records" />
+    <ComparisonTitle label="Breastplate, Urim & Thummim" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Prophets, spiritually gifted men transmit generational records" />
+    <ComparisonChecks />
+    <tr class="title">
+      <td colspan="2" valign="middle text-center">A man standing on a wall warning the people saying, “Wo, wo to this city...to this people” while subsequently being attacked.</td>
+    </tr>
     <tr>
-      <td valign="top">A man standing on a wall warning the people saying, “Wo, wo to this city...to this people” while subsequently being attacked.</td>
-      <td valign="top">
+      <td valign="top" style="text-align: left;">
         <div style="text-align: center;">
           &#10004;<br/><br/>
         </div>
@@ -315,24 +305,38 @@ There was a book published in 1823 Vermont entitled _[View of the Hebrews](https
         <a href="https://www.cesletter.org/bom/37" target="_blank">(Helaman 13-16)</a>
       </td>
     </tr>
-    <ComparisonTr label="The Gospel preached in the Americas" />
-    <ComparisonTr label="Quotes whole chapters of Isaiah" />
-    <ComparisonTr label="Good and bad are a necessary opposition" />
-    <ComparisonTr label="Pride denounced" />
-    <ComparisonTr label="Sacred towers and high places" />
-    <ComparisonTr label="Messiah visits the Americas"
-      leftText="Quetzalcoatl, the white bearded “Mexican Messiah”" />
-    <ComparisonTr label="Idolatry and human sacrifice" />
-    <ComparisonTr label="Hebrews divide into two classes, civilized and barbarous" />
-    <ComparisonTr label="Civilized thrive in art, written language, metallurgy, navigation" />
-    <ComparisonTr label="Government changes from monarchy to republic" />
-    <ComparisonTr label="Civil and ecclesiastical power is united in the same person" />
-    <ComparisonTr label="Long wars break out between the civilized and barbarous" />
-    <ComparisonTr label="Extensive military fortifications, observations, “watch towers”" />
-    <ComparisonTr label="Barbarous exterminate the civilized" />
-    <ComparisonTr label="Discusses the United States" />
-    <ComparisonTr label="Ethan/Ether"
-      leftText="Elder B.H. Roberts noted: “Ethan is prominently connected with the recording of the matter in the one case, and Ether in the other.”" />
+    <ComparisonTitle label="The Gospel preached in the Americas" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Quotes whole chapters of Isaiah" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Good and bad are a necessary opposition" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Pride denounced" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Sacred towers and high places" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Messiah visits the Americas" />
+    <ComparisonChecks leftText="Quetzalcoatl, the white bearded “Mexican Messiah”" />
+    <ComparisonTitle label="Idolatry and human sacrifice" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Hebrews divide into two classes, civilized and barbarous" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Civilized thrive in art, written language, metallurgy, navigation" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Government changes from monarchy to republic" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Civil and ecclesiastical power is united in the same person" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Long wars break out between the civilized and barbarous" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Extensive military fortifications, observations, “watch towers”" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Barbarous exterminate the civilized" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Discusses the United States" />
+    <ComparisonChecks />
+    <ComparisonTitle label="Ethan/Ether" />
+    <ComparisonChecks leftText="Elder B.H. Roberts noted: “Ethan is prominently connected with the recording of the matter in the one case, and Ether in the other.”" />
   </tbody>
 </table>
 
@@ -355,7 +359,7 @@ While this does not prove that the Book of Mormon was plagiarized from the _View
 
 With these ideas already existing and the previously cited issues with KJV plagiarism, errors, anachronisms, geography problems, and more issues to come, is it unreasonable to question Joseph Smith’s story of the Book of Mormon origins as Church Historian B.H. Roberts did?
 
-<strong class="text-red">UPDATE:</strong> Additional information and analysis can be found at [cesletter.org/voh](http://cesletter.org/voh)
+<UpdateBox content="Additional information and analysis can be found at [cesletter.org/voh](http://cesletter.org/voh)" />
 
 <h2 style="font-style: italic;">The Late War</h2>
 
@@ -540,6 +544,6 @@ Boyd Kirkland made the following [observation](https://www.cesletter.org/bom/66)
 
 <IndentedQuote quote="The Book of Mormon and early revelations of Joseph Smith do indeed vividly portray a picture of the Father and Son as the same God...why is it that the Book of Mormon not only doesn’t clear up questions about the Godhead which have raged in Christianity for centuries, but on the contrary just adds to the confusion? This seems particularly ironic, since a major avowed purpose of the book was to restore lost truths and end doctrinal controversies caused by the “great and abominable Church’s” corruption of the Bible...In later years he [Joseph] reversed his earlier efforts to completely ‘monotheise’ the godhead and instead ‘tritheised’ it." />
 
-<strong class="text-red">UPDATE:</strong> Additional information and analysis can be found at [cesletter.org/trinitarian](http://cesletter.org/trinitarian)
+<UpdateBox content="Additional information and analysis can be found at [cesletter.org/trinitarian](http://cesletter.org/trinitarian)" />
 
 Assuming that the official [1838 first vision account](https://www.cesletter.org/bom/67) is truthful and accurate, why would Joseph Smith hold a Trinitarian view of the Godhead if he personally saw God the Father and Jesus Christ as separate and embodied beings a few years earlier in the Sacred Grove?

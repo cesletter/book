@@ -1,5 +1,5 @@
 <RedTitleBar
-  title="Book of Mormon Transation"
+  title="Book of Mormon Translation"
   subtitle="Concerns & Questions"
 />
 
@@ -15,7 +15,7 @@ Unlike the story I've been taught in Sunday School, Priesthood, General Conferen
 
 In other words, Joseph used the same magic device or “Ouija Board” that he used during his [treasure hunting](https://www.cesletter.org/bom-translation/3) days. He put a rock – called a “peep stone” – in his hat and put his face in the hat to tell his customers the location of buried treasure on their property. He also used this same method for translating the Book of Mormon, while the gold plates were covered, placed in another room, or even buried in the woods. The gold plates were not used for the Book of Mormon we have today.
 
-<strong class="text-red">UPDATE:</strong> These facts are now officially confirmed in the Church’s December 2013 _[Book of Mormon Translation](https://www.cesletter.org/bom-translation)_ essay. The Church later admitted these facts in its [October 2015 _Ensign_](https://www.cesletter.org/bom-translation/5), where they include a photograph of the actual rock that Joseph Smith used to place in his hat for the Book of Mormon translation. Additional photos of the rock can be viewed on [lds.org](https://www.cesletter.org/bom-translation/6). In June 2016, President Dieter F. Uchtdorf posted on his Facebook page [comparing the seer stone in the hat Book of Mormon translation to his iPhone](https://www.cesletter.org/bom-translation/7). FairMormon posted [new Book of Mormon translation artwork](https://www.cesletter.org/bom-translation/8) showing Joseph Smith’s face in a hat.
+<UpdateBox content="These facts are now officially confirmed in the Church’s December 2013 _[Book of Mormon Translation](https://www.cesletter.org/bom-translation)_ essay. The Church later admitted these facts in its [October 2015 _Ensign_](https://www.cesletter.org/bom-translation/5), where they include a photograph of the actual rock that Joseph Smith used to place in his hat for the Book of Mormon translation. Additional photos of the rock can be viewed on [lds.org](https://www.cesletter.org/bom-translation/6). In June 2016, President Dieter F. Uchtdorf posted on his Facebook page [comparing the seer stone in the hat Book of Mormon translation to his iPhone](https://www.cesletter.org/bom-translation/7). FairMormon posted [new Book of Mormon translation artwork](https://www.cesletter.org/bom-translation/8) showing Joseph Smith’s face in a hat." />
 
 <ImageWithCaption src="/images/bom-translation-portrayals.jpg"
   title="Book of Mormon Translation that the Church portrayed and still portrays to its members:" />

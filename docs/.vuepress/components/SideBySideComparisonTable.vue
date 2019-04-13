@@ -41,7 +41,6 @@ th {
   border: none;
   border-bottom: 1px solid #dfe2e5;
   text-align: center;
-  font-size: 1.1rem;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.05em;

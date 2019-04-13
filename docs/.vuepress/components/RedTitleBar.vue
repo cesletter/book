@@ -23,13 +23,11 @@ section {
   text-align: center;
 }
 .title {
-  font-size: 1.25rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 .subtitle {
-  font-size: 1rem;
   letter-spacing: 0.05em;
   font-style: italic;
   font-weight: 200;

@@ -65,7 +65,7 @@ Along with Adam-God, Brigham taught a doctrine known as “[Blood Atonement](htt
   link="https://www.cesletter.org/prophets/12"
 />
 
-<strong class="text-red">UPDATE:</strong> The Church now confirms in its _[Peace and Violence among 19th-Century Latter-day Saints](https://www.cesletter.org/prophets/13)_ essay that Blood Atonement was taught by the prophet Brigham Young.
+<UpdateBox content="The Church now confirms in its _[Peace and Violence among 19th-Century Latter-day Saints](https://www.cesletter.org/prophets/13)_ essay that Blood Atonement was taught by the prophet Brigham Young." />
 
 As with the Adam-God theory, the Blood Atonement doctrine was later declared false by subsequent prophets and apostles.
 

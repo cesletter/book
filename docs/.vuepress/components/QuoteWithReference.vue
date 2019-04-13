@@ -27,7 +27,6 @@ export default {
 <style scoped>
 blockquote{
   color: #666;
-  font-size: 1rem;
   margin: 0.5rem 1rem;
   quotes: "“" "‘" "”" "’";
   line-height: 1rem;
@@ -55,8 +54,8 @@ p {
 footer {
   margin: 1rem 0 1.25rem;
   text-align: left;
-  font-size: 0.8rem;
-  line-height: 1.25rem;
+  line-height: 1.5rem;
+  font-size: 1rem;
   text-transform: uppercase;
 }
 .italic {

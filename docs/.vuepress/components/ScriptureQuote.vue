@@ -25,14 +25,12 @@ export default {
   text-align: center;
 }
 .reference {
-  font-size: 1.1rem;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 .description {
   margin-top: 0.5rem;
-  font-size: 0.9rem;
   font-weight: 300;
   display: block;
   font-style: italic;
@@ -43,7 +41,9 @@ export default {
   font-family: Constantia, Lucida Bright, Lucidabright, Lucida Serif, Lucida, DejaVu Serif, Bitstream Vera Serif, Liberation Serif, Georgia, serif;
   margin: 1rem 2rem;
   display: block;
-  line-height: 1.5rem;
+  color: #333333;
+  font-size: 1.1rem;
+  line-height: 1.75rem;
   text-align: justify;
 }
 

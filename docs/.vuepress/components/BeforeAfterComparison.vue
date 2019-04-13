@@ -25,6 +25,8 @@ export default {
 <style scoped>
 .BeforeAfterComparison {
   margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.75rem;
 }
 q {
   quotes: "“" "‘" "”" "’";
@@ -45,7 +47,6 @@ em {
   text-align: center;
   margin: 0.9rem auto;
   display: block;
-  font-size: 0.9rem;
 }
 
 @media only screen and (max-width: 600px) {
