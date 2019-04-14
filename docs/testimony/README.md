@@ -21,7 +21,7 @@
   source="Barton Goldsmith, Ph.D., Psychotherapist"
 />
 
-## 1 Same Method
+## Same Claims
 
 Every major religion has members who claim the same thing: God or God’s spirit bore witness to them that their religion, prophet/pope/leaders, book(s), and teachings are true.
 
