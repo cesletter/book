@@ -31,21 +31,21 @@ title: Science
 
 The problem Mormonism encounters is that so many of its claims are well within the realm of scientific study, and as such, can be proven or disproven. To cling to faith in these areas, where the overwhelming evidence is against it, is willful ignorance, not spiritual dedication.
 
-### 1
+## Death Before the Fall
 
 [2 Nephi 2:22](https://cesletter.org/science/1) and [Alma 12:23-24](https://www.cesletter.org/science/2) state there was no death of any kind (humans, all animals, birds, fish, dinosaurs, etc.) on this earth until the “Fall of Adam,” which according to [D&C 77:6-7](https://www.cesletter.org/science/3) occurred about 7,000 years ago. It is scientifically established that there has been life and death on this planet for billions of years. How does the Church reconcile this?
 
 How do we explain the [massive fossil evidence](https://www.cesletter.org/science/4) showing not only animal deaths but also the extinctions of over a dozen different Hominid species over the span of 250,000 years prior to Adam?
 
-### 2
+## Multiple Hominid Species
 
 If Adam and Eve are the first humans, how do we explain the [dozen or so other Hominid species](https://www.cesletter.org/science/5) who lived and died 35,000 – 2.4 million years before Adam? When did those guys stop being human?
 
-### 3
+## Neanderthal DNA Present in Adam's Descendants
 
 Genetic science and testing has advanced significantly the past few decades. I was surprised to learn from results of my own genetic test that 1.6% of my DNA is [Neanderthal](https://www.cesletter.org/science/6). How does this fact fit with Mormon theology and doctrine that I am a literal descendant of a literal Adam and Eve from about 7,000 years ago? Where do the Neanderthals fit in? How do I have pre-Adamic Neanderthal DNA and Neanderthal blood circulating my veins when this species died off about 33,000 years before Adam and Eve?
 
-### 4
+## Discredited Claims
 
 Other events/claims that science has discredited:
 
