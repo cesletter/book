@@ -22,7 +22,7 @@ These concerns are secondary to all of the above. These concerns do not matter i
 
 Adding to the above deceptions and dishonesty over history (rock in hat translation, polygamy|polyandry, multiple first vision accounts, etc.), the following bother me:
 
-#### 2013 OFFICIAL DECLARATION 2 HEADER UPDATE DISHONESTY {."spaced-title text-center text-red"}
+### 2013 OFFICIAL DECLARATION 2 HEADER UPDATE DISHONESTY {."spaced-title text-center text-red"}
 
 <IndentedQuote
   reference="OFFENDING TEXT"
@@ -49,7 +49,7 @@ Along with the above First Presidency statement, there are many other statements
 
 <UpdateBox content="The Church released a _[Race and the Priesthood](https://www.cesletter.org/race)_ essay which contradicts their [2013 Official Declaration 2 Header](https://www.cesletter.org/other/3). In the essay, they point to Brigham Young as the originator of the ban. Further, they effectively throw 10 latter-day “Prophets, Seers, and Revelators” under the bus as they “disavow” the “theories” that these ten men taught and justified – for 130 years – as doctrine and revelation for the Church’s institutional and theological racism. Finally, they denounce the idea that God punishes individuals with black skin or that God withholds blessings based on the color of one’s skin while completely ignoring the [contradiction](https://www.cesletter.org/other/7) of the keystone Book of Mormon teaching exactly this." />
 
-## ZINA DIANTHA HUNTINGTON YOUNG {."spaced-title text-center text-red"}
+### ZINA DIANTHA HUNTINGTON YOUNG {."spaced-title text-center text-red"}
 
 (The following is a quick biographic snapshot of Zina) {."text-center text-italic"}
 
@@ -70,7 +70,7 @@ Along with the above First Presidency statement, there are many other statements
 
 Why is Joseph Smith not listed as one of Zina’s husbands in the “Marriage and Family” section or anywhere else on her [biographical page on lds.org](https://www.cesletter.org/other/10)? Why is there not a single mention or hint of polyandry on her page or in that marriage section when she was married to two latter-day prophets and having children with Brigham Young while still being married to her first husband, Henry?
 
-#### BRIGHAM YOUNG SUNDAY SCHOOL MANUAL {."spaced-title text-center text-red"}
+### BRIGHAM YOUNG SUNDAY SCHOOL MANUAL {."spaced-title text-center text-red"}
 
 <ul>
   <li>
@@ -86,7 +86,7 @@ Why is Joseph Smith not listed as one of Zina’s husbands in the “Marriage an
   </li>
 </ul>
 
-#### CENSORSHIP {."spaced-title text-center text-red"}
+## CENSORSHIP {."spaced-title text-center text-red"}
 
 In November 2013, Church Historian Elder Steven E. Snow [acknowledged the Church’s censorship](https://www.cesletter.org/other/15) and pointed to the advent of the internet as the contributing factor to the Church’s inability to continue its pattern of hiding information and records from members and investigators:
 
@@ -98,14 +98,14 @@ There is zero transparency to members of the Church. Why is the one and only tru
 
 The Church used to be transparent with its finances but ceased disclosures in [1959](https://www.cesletter.org/other/17).
 
-#### ESTIMATED $1.5 BILLION LUXURY [MEGAMALL CITY CREEK CENTER](https://www.cesletter.org/other/18) {."spaced-title text-center text-red"}
+### ESTIMATED $1.5 BILLION LUXURY [MEGAMALL CITY CREEK CENTER](https://www.cesletter.org/other/18) {."spaced-title text-center text-red"}
 
 * Total Church humanitarian aid from 1985-2011: [$1.4 billion](https://www.cesletter.org/other/19)
 * Something is fundamentally wrong with “the one true Church” spending more on an estimated $1.5 billion dollar high-end megamall than it has in 26 years of humanitarian aid.
 * For an organization that claims to be Christ’s only true Church, this expenditure is a moral failure on so many different levels. For a Church that asks its members to sacrifice greatly for Temple building, such as the case of [Argentinians giving the Church gold from their dental work](https://www.cesletter.org/other/20) for the São Paulo Brazil Temple, this mall business is absolutely shameful.
 * Of all the things that Christ would tell His prophet, the prophet buys a mall and says “[Let’s go shopping!](https://www.cesletter.org/other/21)”? Of all the sum total of human suffering and poverty on this planet, the inspiration the Brethren feel for His Church is to get into the declining high-end shopping mall business?
 
-#### PRESIDENT HINCKLEY’S DISHONEST INTERVIEW {."spaced-title text-center text-red"}
+### PRESIDENT HINCKLEY’S DISHONEST INTERVIEW {."spaced-title text-center text-red"}
 
 President Hinckley made the following dishonest statement in a [2002 interview](https://www.cesletter.org/other/22) to a German journalist:
 
@@ -131,7 +131,7 @@ President Hinckley made the following dishonest statement in a [2002 interview](
 
 Where can I see the Church’s books? I’ve paid tithing. Where can I go to see what the Church’s finances are? Where can current tithing paying members go to see the books? The answer: we can’t. Even if you’ve made the contributions as President Hinckley stated above? Unless you’re an authorized General Authority or senior Church employee in the accounting department with a Non-Disclosure Agreement? You’re out of luck. President Hinckley knew this and for whatever reason made the dishonest statement.
 
-#### TITHING BEFORE RENT, WATER, ELECTRICITY, AND FEEDING YOUR FAMILY {."spaced-title text-center text-red"}
+### TITHING BEFORE RENT, WATER, ELECTRICITY, AND FEEDING YOUR FAMILY {."spaced-title text-center text-red"}
 
 I find the following quote in the [December 2012 _Ensign_](https://www.cesletter.org/other/23) very disturbing:
 
@@ -147,7 +147,7 @@ Would a loving, kind, and empathic God really place parents in the horrible posi
 
 Besides, whatever happened to [self-sufficiency](https://www.cesletter.org/other/30)? Begging the Bishop for food when you had the money for food but because you followed the above counsel and gave your food money to the Church you’re now dependent on the Church for food money? If you give your food and rent money to the Church, you are not self-reliant...you are Church-reliant.
 
-#### DISHONESTLY ALTERING LORENZO SNOW’S WORDS AND TEACHINGS ON TITHING {."spaced-title text-center text-red"}
+### DISHONESTLY ALTERING LORENZO SNOW’S WORDS AND TEACHINGS ON TITHING {."spaced-title text-center text-red"}
 
 The Church took the Prophet Lorenzo Snow’s 1899 General Conference Address words and deliberately omitted and replaced key words on tithing with ellipsis in its _Teachings of Presidents of the Church: Lorenzo Snow_ manual.
 
@@ -186,7 +186,7 @@ What does this say about a Church that claims to be restored and guided by moder
 
 ## Anti-Intellectualism
 
-#### “SOME THINGS THAT ARE TRUE ARE NOT VERY USEFUL” {."spaced-title text-center text-red"}
+### “SOME THINGS THAT ARE TRUE ARE NOT VERY USEFUL” {."spaced-title text-center text-red"}
 
 Elder Boyd K. Packer gave a talk to Church Educational System Instructors and faculty at a CES Symposium on August 22, 1981 entitled _[The Mantle is Far, Far Greater Than the Intellect](https://www.cesletter.org/other/35)_.
 
@@ -224,7 +224,7 @@ Why should investigators and members not learn the correct and candid version of
 
 The question should not be whether it’s faith promoting or not to share ugly but truthful facts. The question should be: Is it the honest thing to do?
 
-#### CRITICIZING LEADERS {."spaced-title text-center text-red"}
+### CRITICIZING LEADERS {."spaced-title text-center text-red"}
 
 Elder Dallin H. Oaks made the following disturbing comment in the PBS documentary, _[The Mormons](https://www.cesletter.org/other/37)_:
 
@@ -232,7 +232,7 @@ Elder Dallin H. Oaks made the following disturbing comment in the PBS documentar
   quote="It is wrong to criticize the leaders of the Church, even if the criticism is true."
 />
 
-#### RESEARCHING “UNAPPROVED” MATERIALS ON THE INTERNET {."spaced-title text-center text-red"}
+### RESEARCHING “UNAPPROVED” MATERIALS ON THE INTERNET {."spaced-title text-center text-red"}
 
 Elder Quentin L. Cook made the following comment in the [October 2012 General Conference](https://www.cesletter.org/other/38):
 
@@ -296,9 +296,9 @@ Church is now found from Church sources, Church-friendly sources, and neutral so
 
 “And it is always good to keep in mind just because something is printed on paper, appears on the Internet, is frequently repeated or has a powerful group of followers doesn’t make it true.” Exactly - the exact same can be said of Mormonism and lds.org.
 
-#### GOING AFTER MEMBERS WHO PUBLISH OR SHARE THEIR QUESTIONS, CONCERNS, AND DOUBTS {."spaced-title text-center text-red"}
+### GOING AFTER MEMBERS WHO PUBLISH OR SHARE THEIR QUESTIONS, CONCERNS, AND DOUBTS {."spaced-title text-center text-red"}
 
-#### [THE SEPTEMBER SIX](https://www.cesletter.org/other/49) {."spaced-title text-center"}
+### [THE SEPTEMBER SIX](https://www.cesletter.org/other/49) {."spaced-title text-center"}
 
 “The September Six were six members of The Church of Jesus Christ of Latter-day Saints who were excommunicated or disfellowshipped by the Church in September 1993, allegedly for publishing scholarly work on Mormonism or critiquing Church doctrine or leadership.”
 
@@ -311,12 +311,12 @@ A few months before the September Six, Elder Boyd K. Packer made the following c
   link="https://www.cesletter.org/other/50"
 />
 
-#### [STRENGTHENING THE CHURCH MEMBERS COMMITTEE (SCMC)](https://www.cesletter.org/other/51) {."spaced-title text-center"}
+### [STRENGTHENING THE CHURCH MEMBERS COMMITTEE (SCMC)](https://www.cesletter.org/other/51) {."spaced-title text-center"}
 
 The spying and monitoring arm of the Church. It is secretive and most members have
 been unaware of its existence since its creation in 1985 after Ezra Taft Benson became president. [Elder Jeffrey R. Holland admitted it still exists](https://cesletter.org/boa/33) in March 2012. The historical evidence and the September Six points to SCMC’s primary mission being to hunt and expose intellectuals and/or disaffected members who are influencing other members to think and question, despite Elder Holland’s claim that it’s a committee primarily to fight against polygamy.
 
-#### “WHEN THE PROPHET SPEAKS THE DEBATE IS OVER” {."spaced-title text-center text-red"}
+### “WHEN THE PROPHET SPEAKS THE DEBATE IS OVER” {."spaced-title text-center text-red"}
 
 N. Eldon Tanner, first counselor in the First Presidency, gave a First Presidency Message in the [August 1979 _Ensign_](https://www.cesletter.org/other/53) that includes the following statement:
 
