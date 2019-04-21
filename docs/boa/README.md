@@ -10,13 +10,13 @@
   link="https://www.cesletter.org/boa"
 />
 
-## 1
+## Papyrus Found
 
 Originally, Joseph claimed that this record was written by Abraham “[by his own hand, upon papyrus](https://www.cesletter.org/boa/2)” – a claim still prominent in the heading of the Book of Abraham. This claim could not be evaluated for decades as many thought the papyri were lost in a fire. The original papyrus Joseph translated has since been found and, as stated in the Church’s July 2014 _[Translation and Historicity of the Book of Abraham](https://www.cesletter.org/boa)_ essay, “scholars have identified the papyrus fragments as parts of standard funerary texts...[that] date to between the third century B.C.E. and the first century C.E., long after Abraham lived.”
 
 We know this is the papyrus that Joseph used for translation because the hieroglyphics match in chronological order to the hieroglyphics in Joseph’s _[Kirtland Egyptian Papers](https://www.cesletter.org/boa/4)_, which contains his _[Grammar & Alphabet of the Egyptian Language](https://www.cesletter.org/boa/5)_ (GAEL). Additionally, the papyrus were pasted onto paper which have drawings of a temple and maps of the Kirtland, Ohio area on the back and they were companied by an affidavit by Emma Smith verifying they had been in the possession of Joseph Smith.
 
-## 2
+## Common Pagan Funerary Text
 
 [Egyptologists have also since translated the source material](https://www.cesletter.org/boa/6) for the Book of Abraham and have found it to be nothing more than a common pagan Egyptian funerary text for a deceased man named “Hor” around first century C.E. In other words, it was a common Breathing Permit that the Egyptians buried with their dead. It has nothing to do with Abraham or anything Joseph claimed in his translation for the Book of Abraham. The Church admits this in its [essay](https://www.cesletter.org/boa):
 
@@ -479,7 +479,7 @@ One of the most disturbing facts I discovered in my research of Facsimile 2 is f
   </ul>
 </div>
 
-## 3
+## Facsimile Summary
 
 Respected non-LDS Egyptologists state that Joseph Smith’s translation of the papyri and facsimiles are gibberish and have absolutely nothing to do with the papyri and facsimiles and what they actually say.
 
@@ -503,7 +503,7 @@ Respected non-LDS Egyptologists state that Joseph Smith’s translation of the p
 5. Misidentifies the dead Hor as a waiter.
 6. Joseph misidentifies – twice – a female as a male.
 
-## 4
+## Cosmology
 
 [The Book of Abraham teaches an incorrect Newtonian view of the universe](https://cesletter.org/pdf/mormon-cosmology.pdf). These Newtonian astronomical concepts, mechanics, and models of the universe have since been succeeded and substantially modified by 20th century Einsteinian physics.
 
@@ -525,14 +525,14 @@ Grant Palmer, a Mormon historian and CES teacher for 34 years, wrote:
   link="https://cesletter.org/boa/24"
 />
 
-## 5
+## King James Version Text
 
 86% of Book of Abraham chapters 2, 4, and 5 are King James Version Genesis chapters 1, 2, 11, and 12. Sixty-six out of seventy-seven verses are quotations or close paraphrases of King James Version wording. (See [An Insider’s View of Mormon Origins, p.19](https://cesletter.org/boa/24))
 
 
 If the Book of Abraham is an ancient text written thousands of years ago “by his own hand upon papyrus,” then what are 17th century King James Version text doing in there? What does this say about the book being anciently written by Abraham?
 
-## 6
+## Anachronisms
 
 Why are there anachronisms in the Book of Abraham? For example, [the terms Chaldeans, Egyptus, and Pharaoh are all anachronistic](https://cesletter.org/boa/26). Additionally, Abraham refers to the facsimiles in [1:12](https://cesletter.org/boa/27) and [1:14](https://cesletter.org/boa/28). However, as noted and conceded above in the Church’s essay, these facsimiles did not even exist in Abraham’s time as they are standard first century C.E. pagan Egyptian funerary documents.
 
@@ -549,11 +549,11 @@ Why would anyone assume that? {."spaced-title text-center text-red"}
   quote="And it came to pass that the priests laid violence upon me, that they might slay me also, as they did those virgins upon this altar; and that you may have a knowledge of this altar, I will refer you to the representation at the commencement of this record."
 />
 
-## 7
+## Light from Kolob
 
 Facsimile 2, Figure #5 states the sun receives its “light from the revolutions of Kolob.” We now know, however, that the process of nuclear fusion is what makes the stars and suns shine. With the discovery of quantum mechanics, scientists learned that the sun’s source of energy is internal and not external. The sun shines because of thermonuclear fusion. The sun does not shine because it gets its light from any other star or any other external source.
 
-## 8
+## The Philosophy of a Future State
 
 There is a book published in 1829 by Thomas Dick entitled _[The Philosophy of a Future State](https://cesletter.org/boa/29)_. Joseph Smith [owned a copy](https://cesletter.org/boa/30) of the book and Oliver Cowdery quoted some lengthy excerpts from the book in the [December 1836 Messenger and Advocate](https://cesletter.org/boa/31).
 
@@ -569,7 +569,7 @@ Hansen continues:
   link="https://cesletter.org/boa/32"
 />
 
-## 9
+## Elder Holland BBC Interview
 
 Elder Jeffrey R. Holland was directly asked about the papyri not matching the Book
 of Abraham in a March 2012 [BBC interview](https://cesletter.org/boa/33):
