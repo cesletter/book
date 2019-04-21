@@ -5,7 +5,7 @@
 
 At the end of the day? It all doesn’t matter. The Book of Mormon Witnesses and their testimonies of the gold plates are irrelevant. It does not matter whether eleven 19th century treasure diggers with magical worldviews saw some gold plates or not. It doesn’t matter because of this one simple fact:
 
-#### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center"}
+### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center"}
 
 The testimony of the Three and Eight Witnesses to the Book of Mormon is a key part to the testimonies of many members of the Church. Some even base their testimony of the truthfulness of the Book of Mormon on these 11 witnesses and their claims. As a missionary, I was instructed to teach investigators about the testimonies of the witnesses to the Book of Mormon as part of boosting the book’s credibility.
 
@@ -312,11 +312,11 @@ It simply doesn’t mean anything. People believe in false things their entire l
 
 #### PROBLEMS {."text-center spaced-title py-3"}
 
-### 1
+### Signatures
 
 In discussing the witnesses, we should not overlook the primary accounts of the events they testified to. The official statements published in the Book of Mormon are not dated, signed (we have no record with their signatures except for Oliver’s), nor is a specific location given for where the events occurred. These are not eleven legally sworn affidavits but rather simple statements pre-written by Joseph Smith with claims of having been signed by three men and another by eight.
 
-### 2
+### Relatives
 
 All of the Book of Mormon witnesses, except Martin Harris, were related by blood or marriage either to the Smiths or Whitmers. Oliver Cowdery (married to Elizabeth Ann Whitmer and cousin to Joseph Smith), Hiram Page (married to Catherine Whitmer), and the five Whitmers were all related by marriage. Of course, Hyrum Smith, Samuel Smith, and Joseph Smith Sr. were Joseph’s brothers and father.
 
@@ -328,7 +328,7 @@ Mark Twain made light of this obvious problem:
   link="https://cesletter.org/witnesses/32"
 />
 
-### 3
+### Unsavory Characters
 
 Within eight years, all of the Three Witnesses were excommunicated from the Church. This is what Joseph Smith said about them in 1838:
 
@@ -346,18 +346,17 @@ This is what first counselor of the First Presidency and once close associate Si
   link="https://cesletter.org/witnesses/34"
 />
 
-What does it say about the Witnesses and their characters if even the Prophet and his
-counselor in the First Presidency thought they were questionable and unsavory?
+What does it say about the Witnesses and their characters if even the Prophet and his counselor in the First Presidency thought they were questionable and unsavory?
 
-### 4
+### Prophetic Influence
 
 As mentioned in the above “[Polygamy | Polyandry](/polygamy/)” section, Joseph was able to influence and convince many of the 31 witnesses to lie and perjure in a sworn affidavit that Joseph was not a polygamist. Is it outside the realm of possibility that Joseph was also able to influence or manipulate the experiences of his own magical thinking, treasure digging family and friends as witnesses? Biased Mormon men who already believed in second sight and who already believed that Joseph Smith was a true prophet of God?
 
-### 5
+### Duped
 
 If the Prophet Joseph Smith could get duped with the [Kinderhook Plates](/kinderhook/), thinking that the 19th century fake plates were a legitimate record of a “descendent of Ham,” how is having gullible men like Martin Harris handling the covered plates going to prove anything?
 
-### 6
+### Strang Witnesses
 
 James Strang’s claims and Voree Plates Witnesses are distinctive and more impressive compared to the Book of Mormon Witnesses:
 
@@ -366,7 +365,7 @@ James Strang’s claims and Voree Plates Witnesses are distinctive and more impr
 * The Voree Plates were displayed in a museum for both members and non-members to view and examine.
 * Strang provided 4 witnesses who testified that on his instructions, they actually dug the plates up for Strang while he waited for them to do so. They confirmed that the ground looked previously undisturbed.
 
-### 7
+### Shakers
 
 The Shakers and Ann Lee:
 
@@ -397,7 +396,7 @@ The mistake that is made by 21st century Mormons is that they’re seeing the Bo
 
 At the end of the day? It all doesn’t matter. The Book of Mormon Witnesses and their testimonies of the gold plates are irrelevant. It does not matter whether eleven 19th century treasure diggers with magical worldviews saw some gold plates or not. It doesn’t matter because of this one simple fact:
 
-#### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center text-red"}
+### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center text-red"}
 
 <ImageWithCaption src="/images/witnesses-plates-hat.jpg" />
 
