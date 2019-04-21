@@ -1,4 +1,9 @@
 const autometa_options = {
+  enable: true, // enables/disables everything - control per page using frontmatter
+  image: true, // regular meta image used by search engines
+  twitter: true, // twitter card
+  og: true, // open graph: facebook, pinterest, google+
+  schema: true, // schema.org for google
   site: {
     name: "CES Letter",
     twitter: "cesletter"
@@ -6,7 +11,13 @@ const autometa_options = {
   author: {
     name: "Jeremy Runnels"
   },
-  canonical_base: "https://read.cesletter.org"
+  canonical_base: "https://read.cesletter.org",
+  image_sources: [
+    "frontmatter",
+    /!\[.*?\]\((.*?)\)/i, // markdown image regex
+    /<img.*?src=['"](.*?)['"]/i, // html image regex
+    "https://read.cesletter.org/images/clf-og.png"
+  ]
 };
 
 module.exports = {
