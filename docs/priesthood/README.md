@@ -10,7 +10,7 @@
   link="https://www.cesletter.org/priesthood/1"
 />
 
-## 1
+## Before 1832
 
 Like the first vision story, none of the members of the Church or Joseph Smith’s family had ever heard prior to 1832 about a priesthood restoration from John the Baptist or Peter, James, and John. Although the priesthood is now taught to have been restored in 1829, Joseph and Oliver made no such claim until 1832, if that. Even in 1832, there were no claims of a restoration of the priesthood (just a ‘reception’ of the priesthood) and there certainly was no specific claims of John the Baptist, Peter, James, and John. Like the first vision accounts, the story later got more elaborate and bold with specific claims of miraculous visitations from resurrected John the Baptist, Peter, James, and John.
 
@@ -20,7 +20,7 @@ LDS historian and scholar, Richard Bushman, acknowledges this in _[Rough Stone R
 
 Why did it take 3 plus years for Joseph or Oliver to tell members of the Church about the restoration of the priesthood under the hands of John the Baptist and Peter, James, and John?
 
-## 2
+## David Whitmer
 
 David Whitmer, one of the witnesses to the Book of Mormon, had this to say about the Priesthood restoration:
 
@@ -30,7 +30,7 @@ David Whitmer, one of the witnesses to the Book of Mormon, had this to say about
   link="https://www.cesletter.org/priesthood/3"
 />
 
-## 3
+## Backdating
 
 Joseph Smith and Oliver Cowdery changed the wording of an earlier revelation when they compiled the 1835 Doctrine & Covenants, adding verses about the appearances of Elijah, John the Baptist, and Peter, James, and John as if those appearances were mentioned in the earlier revelation in the Book of Commandments, which they weren’t.
 
@@ -45,17 +45,17 @@ The following text is what Joseph and Oliver added to the 1830 revelation in 183
 
 You can see and compare for yourself on the Joseph Smith Papers (LDS owned and operated) website. The direct links are above.
 
-## 4
+## Absence in Book of Commandments
 
 Had the restoration of the Aaronic Priesthood under the hand of John the Baptist been recorded prior to 1833, it would have been expected to appear in the Book of Commandments. However, nowhere in the Book of Commandments is this miraculous and doctrinally vital event recorded.
 
 Had the restoration of the Melchizedek Priesthood under the hands of Peter, James, and John been recorded prior to 1833, it likewise would have been expected to appear in the Book of Commandments. However, nowhere in the Book of Commandments is this miraculous and doctrinally vital event recorded.
 
-## 5
+## Retrofitted
 
 It wasn’t until the 1835 edition Doctrine & Covenants that Joseph and Oliver backdated and retrofitted Priesthood restoration events to an 1829-30 time period – none of which existed in any previous Church records; including Doctrine & Covenants’ precursor, Book of Commandments, nor the original Church history as published in _The Evening and Morning Star_.
 
-## 6
+## Ordained by Lyman Wight
 
 Melchizedek Priesthood given by Lyman Wight – not Peter, James, and John:
 
