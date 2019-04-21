@@ -62,5 +62,5 @@ The past year was the worst year of my life. I experienced a betrayal, loss, and
     A thousand stars shine on the land,<br/>
     The chart drafted by my own hand.
   </p>
-  <a href="https://www.cesletter.org/conclusion/10" target="_blank" class="spaced-title">– THE JOURNEY –</a>{."spaced-title text-center"}
+  <a href="https://www.cesletter.org/conclusion/10" target="_blank" class="spaced-title">– THE JOURNEY –</a>
 </div>
