@@ -1,8 +1,5 @@
 ---
 title: Other - Concerns & Questions
-meta:
-  - name: "og:image"
-    content: "https://read.cesletter.org/images/clf-og.png"
 ---
 
 <RedTitleBar
@@ -89,7 +86,7 @@ Why is Joseph Smith not listed as one of Zina’s husbands in the “Marriage an
   </li>
 </ul>
 
-## Censorship
+## CENSORSHIP {."spaced-title text-center text-red"}
 
 In November 2013, Church Historian Elder Steven E. Snow [acknowledged the Church’s censorship](https://www.cesletter.org/other/15) and pointed to the advent of the internet as the contributing factor to the Church’s inability to continue its pattern of hiding information and records from members and investigators:
 
@@ -257,7 +254,7 @@ Elder Neil L. Andersen made the following statement in the [October 2014 General
   quote="We might remind the sincere inquirer that Internet information does not have a ‘truth’ filter. Some information, no matter how convincing, is simply not true."
 />
 
-<UpdateBox content="Ironically, the only way for members to directly read the Church’s admissions and validations of yesterday’s “anti-Mormon lies” is by going on the internet to the Gospel Topics Essays 41 section of the Church’s website. The essays and their presence on lds.org have disturbed and shocked many members – some to the point of even believing that the Church’s website has been hacked." />
+<UpdateBox content="Ironically, the only way for members to directly read the Church’s admissions and validations of yesterday’s “anti-Mormon lies” is by going on the internet to the Gospel Topics Essays section of the Church’s website. The essays and their presence on lds.org have disturbed and shocked many members – some to the point of even believing that the Church’s website has been hacked." />
 
 With all this talk from General Authorities against the internet and daring to be balanced by looking at what both defenders and critics are saying about the Church, it is as if questioning and researching and doubting is now the new pornography.
 
