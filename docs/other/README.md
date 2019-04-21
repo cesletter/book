@@ -92,7 +92,7 @@ In November 2013, Church Historian Elder Steven E. Snow [acknowledged the Church
 
 <IndentedQuote quote="I think **in the past there was a tendency to keep a lot of the records closed or at least not give access to information**. But the world has changed in the last generation — **with the access to information on the Internet, we can’t continue that pattern; I think we need to continue to be more open.**" />
 
-## 2. Church Finances
+## Church Finances
 
 There is zero transparency to members of the Church. Why is the one and only true Church keeping its books in the dark? Why would God’s one true Church choose to “[keep them in darkness](https://www.cesletter.org/other/16)” over such a stewardship? History has shown time and time again that secret religious wealth is breeding ground for corruption.
 
@@ -163,7 +163,7 @@ The Church dishonestly alters and completely changes Lorenzo Snow’s words and 
 
 In 2012, a Latter-day Saint published an eye-opening blog post that went viral among internet Mormons: _[Are We Paying Too Much Tithing?](https://www.cesletter.org/other/33)_ The article demonstrates how what is currently taught and practiced is contrary to how it was taught and practiced by the Prophet Joseph Smith and subsequent prophets, including Lorenzo Snow; whose above quote was deceptively altered and manipulated for today’s tithe-paying members.
 
-## 3. Names of the Church
+## Names of the Church
 
 #### 1830: CHURCH OF JESUS CHRIST {."spaced-title text-center text-red"}
 #### 1834: [THE CHURCH OF THE LATTER DAY SAINTS](https://www.cesletter.org/other/34) {."spaced-title text-center text-red"}
@@ -184,7 +184,7 @@ Why would Christ instruct Joseph to name it one thing in 1830 and then change it
 
 What does this say about a Church that claims to be restored and guided by modern revelation?
 
-## 4. Anti-Intellectualism
+## Anti-Intellectualism
 
 #### “SOME THINGS THAT ARE TRUE ARE NOT VERY USEFUL” {."spaced-title text-center text-red"}
 
