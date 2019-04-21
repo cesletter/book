@@ -1,3 +1,7 @@
+---
+title: Conclusion
+---
+
 <RedTitleBar title="Conclusion" />
 
 <QuoteWithReference

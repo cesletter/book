@@ -1,3 +1,7 @@
+---
+title: Priesthood Restoration
+---
+
 <RedTitleBar
   title="Priesthood Restoration"
   subtitle="Concerns & Questions"

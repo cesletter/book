@@ -1,12 +1,22 @@
+const autometa_options = {
+  site: {
+    name: "CES Letter",
+    twitter: "cesletter"
+  },
+  author: {
+    name: "Jeremy Runnels"
+  },
+  canonical_base: "https://read.cesletter.org"
+};
+
 module.exports = {
   title: "CES Letter",
   description:
     "CES Letter is one Latter-Day Saint's honest quest to get official answers from the LDS Church on its troubling origins, history, and practices. Jeremy Runnells was offered an opportunity to discuss his own doubts with a director of the Church Educational System (CES) and was assured that his doubts could be resolved. After reading Jeremy's letter, the director promised him a response. No response ever came.",
   ga: "UA-44595227-2",
   themeConfig: {
-    nav: [
-      { text: "Home", link: "https://cesletter.org/" }
-    ],
+    domain: "https://read.cesletter.org",
+    nav: [{ text: "Home", link: "https://cesletter.org/" }],
     sidebarDepth: 2,
     sidebar: [
       ["/", "Title Page"],
@@ -33,8 +43,10 @@ module.exports = {
     docsRepo: "cesletter/book",
     repoLabel: "GitHub",
     editLinks: false,
-    editLinkText: "Help us improve this page!"
+    editLinkText: "Help us improve this page!",
+    author: "Jeremy Runnels"
   },
+  plugins: [["autometa", autometa_options]],
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.

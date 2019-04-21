@@ -1,3 +1,7 @@
+---
+title: Kinderhook Plates & Translator Claims
+---
+
 <RedTitleBar
   title="Kinderhook Plates & Translator Claims"
   subtitle="Concerns & Questions"

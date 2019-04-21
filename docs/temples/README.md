@@ -1,3 +1,7 @@
+---
+title: Temples & Freemasonry
+---
+
 <RedTitleBar
   title="Temples & Freemasonry"
   subtitle="Concerns & Questions"

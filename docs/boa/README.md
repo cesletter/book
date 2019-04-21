@@ -1,3 +1,7 @@
+---
+title: Book of Abraham
+---
+
 <RedTitleBar
   title="Book of Abraham"
   subtitle="Concerns & Questions"

@@ -1,3 +1,7 @@
+---
+title: Polygamy | Polyandry
+---
+
 <RedTitleBar
   title="Polygamy | Polyandry"
   subtitle="Concerns & Questions"

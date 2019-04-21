@@ -1,3 +1,7 @@
+---
+title: First Vision
+---
+
 <RedTitleBar
   title="First Vision"
   subtitle="Concerns & Questions"

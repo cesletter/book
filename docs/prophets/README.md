@@ -1,3 +1,7 @@
+---
+title: Prophets
+---
+
 <RedTitleBar
   title="Prophets"
   subtitle="Concerns & Questions"
