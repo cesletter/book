@@ -152,5 +152,4 @@ Does this mean that The Lion King is true? That Mufasa is real and true? Does th
 
 The following [mind-blowing video](https://www.cesletter.org/spirit) raises some profound and thought-provoking questions about the reliability of “a witness from the Holy Ghost” for discerning truth and reality:
 
-#### [CESLETTER.ORG/SPIRIT](https://www.cesletter.org/spirit) {."text-center spaced-title py-3"}
-
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/ycUvC9s4VYA" frameborder="0" allowfullscreen></iframe></div>

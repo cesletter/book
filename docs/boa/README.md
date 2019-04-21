@@ -616,7 +616,7 @@ In addition to the above, world renowned and respected University of Chicago pro
 
 The following [video](https://www.cesletter.org/papyri) offers a thorough, complete, and unbiased overview of the Book of Abraham issues as well as the apologetic responses to them:
 
-[CESLETTER.COM/PAPYRI](https://cesletter.org/papyri) {."spaced-title text-center"}
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/f5FAFVVv_os" frameborder="0" allowfullscreen></iframe></div>
 
 An online contributor created an [easy-to-understand document](https://cesletter.org/boa/40) very clearly outlining the Book of Abraham issues. Contrary to what some Mormon apologists claim or imply, a person does not have to be an Egyptologist or a scholar with a PhD to clearly understand the Book of Abraham problems and challenges to Joseph Smith’s claims of being a translator.
 

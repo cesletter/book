@@ -5,7 +5,7 @@
 
 At the end of the day? It all doesn’t matter. The Book of Mormon Witnesses and their testimonies of the gold plates are irrelevant. It does not matter whether eleven 19th century treasure diggers with magical worldviews saw some gold plates or not. It doesn’t matter because of this one simple fact:
 
-### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center"}
+#### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center"}
 
 The testimony of the Three and Eight Witnesses to the Book of Mormon is a key part to the testimonies of many members of the Church. Some even base their testimony of the truthfulness of the Book of Mormon on these 11 witnesses and their claims. As a missionary, I was instructed to teach investigators about the testimonies of the witnesses to the Book of Mormon as part of boosting the book’s credibility.
 
@@ -396,7 +396,7 @@ The mistake that is made by 21st century Mormons is that they’re seeing the Bo
 
 At the end of the day? It all doesn’t matter. The Book of Mormon Witnesses and their testimonies of the gold plates are irrelevant. It does not matter whether eleven 19th century treasure diggers with magical worldviews saw some gold plates or not. It doesn’t matter because of this one simple fact:
 
-### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center text-red"}
+#### JOSEPH DID NOT USE THE GOLD PLATES FOR TRANSLATING THE BOOK OF MORMON {."spaced-title text-center text-red"}
 
 <ImageWithCaption src="/images/witnesses-plates-hat.jpg" />
 
