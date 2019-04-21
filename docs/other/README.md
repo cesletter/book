@@ -18,7 +18,7 @@ title: Other - Concerns & Questions
 
 These concerns are secondary to all of the above. These concerns do not matter if the foundational truth claims (Book of Mormon, First Vision, Prophets, Book of Abraham, Witnesses, Priesthood, Temples, etc.) are not true.
 
-## 1. Church’s Dishonesty, Censorship, and Whitewashing Over Its History
+## Church’s Dishonesty, Censorship, and Whitewashing Over Its History
 
 Adding to the above deceptions and dishonesty over history (rock in hat translation, polygamy|polyandry, multiple first vision accounts, etc.), the following bother me:
 
@@ -49,7 +49,7 @@ Along with the above First Presidency statement, there are many other statements
 
 <UpdateBox content="The Church released a _[Race and the Priesthood](https://www.cesletter.org/race)_ essay which contradicts their [2013 Official Declaration 2 Header](https://www.cesletter.org/other/3). In the essay, they point to Brigham Young as the originator of the ban. Further, they effectively throw 10 latter-day “Prophets, Seers, and Revelators” under the bus as they “disavow” the “theories” that these ten men taught and justified – for 130 years – as doctrine and revelation for the Church’s institutional and theological racism. Finally, they denounce the idea that God punishes individuals with black skin or that God withholds blessings based on the color of one’s skin while completely ignoring the [contradiction](https://www.cesletter.org/other/7) of the keystone Book of Mormon teaching exactly this." />
 
-#### ZINA DIANTHA HUNTINGTON YOUNG {."spaced-title text-center text-red"}
+## ZINA DIANTHA HUNTINGTON YOUNG {."spaced-title text-center text-red"}
 
 (The following is a quick biographic snapshot of Zina) {."text-center text-italic"}
 
