@@ -44,7 +44,7 @@ export default {
   color: #333333;
   font-size: 1.1rem;
   line-height: 1.75rem;
-  text-align: justify;
+  text-align: left;
 }
 
 @media only screen and (max-width: 600px) {
