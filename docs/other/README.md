@@ -1,5 +1,8 @@
 ---
 title: Other - Concerns & Questions
+meta:
+  - name: "og:image"
+    content: "https://read.cesletter.org/images/clf-og.png"
 ---
 
 <RedTitleBar
@@ -86,7 +89,7 @@ Why is Joseph Smith not listed as one of Zina’s husbands in the “Marriage an
   </li>
 </ul>
 
-## CENSORSHIP {."spaced-title text-center text-red"}
+## Censorship
 
 In November 2013, Church Historian Elder Steven E. Snow [acknowledged the Church’s censorship](https://www.cesletter.org/other/15) and pointed to the advent of the internet as the contributing factor to the Church’s inability to continue its pattern of hiding information and records from members and investigators:
 

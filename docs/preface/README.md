@@ -1,5 +1,8 @@
 ---
 title: Preface
+meta:
+  - name: "og:image"
+    content: "https://read.cesletter.org/images/clf-og.png"
 ---
 
 <div class="text-center" style="max-width: 400px; margin: 50px auto;">

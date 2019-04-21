@@ -1,5 +1,8 @@
 ---
 title: CES Letter - My Search for Answers to my Mormon Doubts
+meta:
+  - name: "og:image"
+    content: "https://read.cesletter.org/images/clf-og.png"
 ---
 
 <TitlePage

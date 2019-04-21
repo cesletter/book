@@ -28,7 +28,7 @@ module.exports = {
   themeConfig: {
     domain: "https://read.cesletter.org",
     nav: [{ text: "Home", link: "https://cesletter.org/" }],
-    sidebarDepth: 2,
+    sidebarDepth: 1,
     sidebar: [
       ["/", "Title Page"],
       ["/preface/", "Preface"],

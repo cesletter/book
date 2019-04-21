@@ -1,5 +1,8 @@
 ---
 title: Testimony & Spiritual Witness
+meta:
+  - name: "og:image"
+    content: "https://read.cesletter.org/images/clf-og.png"
 ---
 
 <RedTitleBar
