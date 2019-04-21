@@ -25,7 +25,7 @@
 
 Every major religion has members who claim the same thing: God or God’s spirit bore witness to them that their religion, prophet/pope/leaders, book(s), and teachings are true.
 
-## 2
+## Outsider Test for Faith
 
 Just as it would be arrogant for a FLDS member, a Jehovah’s Witness, a Catholic, a Seventh-day Adventist, or a Muslim to deny a Latter-day Saint’s spiritual experience and testimony of the truthfulness of Mormonism, it would likewise be arrogant for a Latter- day Saint to deny others’ spiritual experiences and testimonies of the truthfulness of their own religion. Yet, every religion cannot be right and true together.
 
@@ -53,11 +53,11 @@ Same method: read, ponder, and pray. Different testimonies. All four testimonies
 
 Praying about the truthfulness of the Book of Mormon does not follow that the LDS Church is true. The FLDS also believe in the Book of Mormon. So do dozens of Mormon splinter groups. They all believe in the divinity of the Book of Mormon as well. Praying about the first vision: Which account is true? They can’t all be correct together as they conflict with one another.
 
-## 3
+## Unreliable Method
 
 If God’s method to revealing truth is through feelings, it is a very ineffective and unreliable method. We have thousands of religions and billions of members of those religions saying that their truth is God’s only truth and everyone else is wrong because they felt God or God’s spirit reveal the truth to them. Each religion has believers who believe that their spiritual experiences are more authentic and powerful than those of the adherents of other religions. They cannot all be right together, if at all.
 
-## 4
+## Book of Mormon Copyright Revelation
 
 Joseph Smith received a revelation, through the peep stone in his hat, to send Hiram Page and Oliver Cowdery to Toronto, Canada for the sole purpose of selling the copyright of the Book of Mormon, which is another concern in itself (why would God command to sell the copyright to His word?). The mission failed and the prophet was asked why his revelation was wrong.
 
@@ -85,7 +85,7 @@ What kind of a method is this if Heavenly Father allows Satan to interfere with 
 
 Are we now expected to not only figure out when a prophet is speaking as a prophet and not as a man while also trying to figure out whether our answers to prayer are from God, from the devil, or from ourselves?
 
-## 5
+## Discrepancy
 
 As a believing Mormon, I saw a testimony as more than just spiritual experiences and feelings. I saw that we had “evidence” and “logic” on our side based on the correlated narrative I was fed by the Church about its origins. I lost this confidence when I discovered that the gap between what the Church teaches about its origins and what the primary historical documents actually show happened, and between what history shows what happened and what science shows what happened...couldn’t be further apart.
 
@@ -95,7 +95,7 @@ I read an experience that explains this in another way:
   quote="I resigned from the LDS Church and informed my bishop that the reasons had to do with discovering the real history of the Church. When I was done, he asked about the spiritual witness I had surely received as a missionary. I agreed that I had felt a sure witness, as strong as he currently felt. I gave him the analogy of Santa; I believed in Santa until I was 12. I refused to listen to reason from my friends who had discovered the truth much earlier...I just knew. However, once I learned the facts, feelings changed. I told him that Mormons have to re-define faith in order to believe; traditionally, faith is an instrument to bridge that gap between where science, history and logic end, and what you hope to be true. Mormonism re-defines faith as embracing what you hope to be true in spite of science, fact, and history."
 />
 
-## 6
+## Paul H. Dunn
 
 [Paul H. Dunn](https://www.cesletter.org/testimony/7): Dunn was a General Authority of the Church for many years. He was a very popular speaker who told powerful faith-promoting war and baseball stories. Many times Dunn shared these stories in the presence of the prophet, apostles, and seventies. Stories such as how God protected him as enemy machine-gun bullets ripped away his clothing, gear, and helmet without ever touching his skin and how he was preserved by the Lord. Members of the Church shared how they strongly felt the Spirit as they listened to Dunn’s testimony and stories.
 
@@ -103,7 +103,7 @@ Unfortunately, Dunn was later caught lying about his war and baseball stories an
 
 What about the members who felt the Spirit from Dunn’s fabricated and false stories? What does this say about the Spirit and what the Spirit really is?
 
-## 7
+## Apostle Counsels
 
 The following are counsels from members of the Quorum of the Twelve Apostles on how to gain a testimony:
 
@@ -134,7 +134,7 @@ How is this honest? How is this ethical? What kind of advice are these apostles 
 
 What about members and investigators who are on the other side listening to your “testimony”? How are they supposed to know whether you actually do have a testimony of Mormonism or if you’re just following Packer’s, Oaks’, and Andersen’s counsel and you’re lying your way into one?
 
-## 8
+## How Reliable is the Spirit?
 
 There are many members who share their testimonies that the Spirit told them that they were to marry this person or go to this school or move to this location or start up this business or invest in this investment. They rely on this Spirit in making critical life decisions. When the decision turns out to be not only incorrect but disastrous, the fault lies on the individual and never on the Spirit. The individual didn’t have the discernment or it was the individual’s hormones talking or it was the individual’s greed talking or the individual wasn’t worthy at the time.
 
@@ -144,7 +144,7 @@ How are faith and feelings reliable pathways to truth? Is there anything one cou
 
 If faith and feelings can lead one to believe and accept the truth claims of any one of the hundreds of thousands of contradictory religions and thousands of contradictory gods... how then are faith and feelings reliable pathways to truth?
 
-## 9
+## Real vs. Not Real
 
 I felt the Spirit watching Saving Private Ryan and Schindler’s List. Both R-rated and horribly violent movies. I also felt the Spirit watching Forrest Gump and the The Lion King. After learning these disturbing issues, I attended a conference where former Mormons shared their stories. The same Spirit I felt telling me that Mormonism is true and that Joseph Smith was a true prophet is the same Spirit I felt in all of the above experiences.
 
