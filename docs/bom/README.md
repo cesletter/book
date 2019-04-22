@@ -184,7 +184,7 @@ The Hill Cumorah and Moroni have absolutely nothing to do with Camora and Moroni
 
 <UpdateBox content="Additional information and analysis can be found at [cesletter.org/cumorah](https://cesletter.org/cumorah/)" />
 
-<h2 style="font-style: italic;">View of the Hebrews</h2>
+## View of the Hebrews
 
 There was a book published in 1823 Vermont entitled _[View of the Hebrews](https://www.cesletter.org/bom/33)_. Below is a chart comparing the _View of the Hebrews_ to the Book of Mormon:
 
@@ -364,7 +364,7 @@ With these ideas already existing and the previously cited issues with KJV plagi
 
 <UpdateBox content="Additional information and analysis can be found at [cesletter.org/voh](http://cesletter.org/voh)" />
 
-<h2 style="font-style: italic;">The Late War</h2>
+## The Late War
 
 [The Late War Between the United States and Great Britain](https://www.cesletter.org/bom/44): This book was an 1819 textbook written for New York state school children. The book depicted the events of the War of 1812 and it was specifically written in a Jacobean English style to imitate the King James Bible. This affected scriptural style was calculated to elevate the moral themes, characters and events depicted in the narrative to inspire the readers to “patriotism and piety.” Readers already accustomed to revere scriptural sounding texts in the ancient Bible would be predisposed to revere this history book which employs the same linguistic style.
 
@@ -413,7 +413,7 @@ ormer BYU Library Bibliographic Dept. Chairman and antique book specialist Rick 
 
 <IndentedQuote quote="The presence of Hebraisms and other striking parallels in a popular children’s textbook (Late War), on the other hand – so close to Joseph Smith in his youth – must sober our perspective." />
 
-<h2 style="font-style: italic;">The First Book of Napoleon</h2>
+## The First Book of Napoleon
 
 Another fascinating book published in 1809, _[The First Book of Napoleon](https://www.cesletter.org/bom/49)_:
 
