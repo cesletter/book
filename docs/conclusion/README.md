@@ -14,7 +14,7 @@ meta:
   link="https://www.cesletter.org/conclusion/1"
 />
 
-When I first discovered that gold plates were not used to translate the Book of Mormon, that Joseph Smith started polygamy and disturbingly practiced it in ways I never could have imagined, and that Joseph’s Book of Abraham translations and claims are gibberish...I went into a panic. I desperately needed answers and I needed them immediately. Among the first sources I looked to for answers were official Church sources such as Mormon. org and LDS.org. I couldn’t find them.
+When I first discovered that gold plates were not used to translate the Book of Mormon, that Joseph Smith started polygamy and disturbingly practiced it in ways I never could have imagined, and that Joseph’s Book of Abraham translations and claims are gibberish...I went into a panic. I desperately needed answers and I needed them immediately. Among the first sources I looked to for answers were official Church sources such as Mormon.org and LDS.org. I couldn’t find them.
 
 I then went to FairMormon and Neal A. Maxwell Institute (formerly FARMS).
 

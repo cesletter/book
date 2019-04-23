@@ -20,7 +20,7 @@ meta:
 <QuoteWithReference
   quote="...everything in the Church – everything – rises or falls on the truthfulness of the Book of Mormon and, by implication, the Prophet Joseph Smith’s account of how it came forth...It sounds like a 'sudden death' proposition to me. Either the Book of Mormon is what the Prophet Joseph said it is or this Church and its founder are false, fraudulent, a deception from the first instance onward."
   attribution="President Jeffrey R. Holland"
-  source="True of False, New Era, June 1995""
+  source="True of False, New Era, June 1995"
   link="http://www.cesletter.org/bom/2"
 />
 
@@ -230,24 +230,13 @@ There was a book published in 1823 Vermont entitled _[View of the Hebrews](https
         <strong class="spaced-title">NOTE:</strong> Windor County is adjacent to Rutland County.
       </td>
     </tr>
-    <tr class="title">
-      <td colspan="2" valign="middle text-center">The destruction of Jerusalem</td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        &#10004;
-      </td>
-      <td valign="middle">
-        &#10004;
-      </td>
-    </tr>
     <ComparisonTitle label="The destruction of Jerusalem" />
     <ComparisonChecks />
     <ComparisonTitle label="The scattering of Israel" />
     <ComparisonChecks />
     <ComparisonTitle label="The restoration of the Ten Tribes" />
     <ComparisonChecks />
-    <ComparisonTitle label="THebrews leave the Old World for the New World" />
+    <ComparisonTitle label="Hebrews leave the Old World for the New World" />
     <ComparisonChecks />
     <ComparisonTitle label="Religion a motivating factor" />
     <ComparisonChecks />
