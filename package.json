@@ -7,5 +7,8 @@
     "markdown-it-attrs": "^2.3.2",
     "vuepress": "^0.14.4",
     "vuepress-plugin-autometa": "^0.1.10"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1"
   }
 }
