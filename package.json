@@ -8,7 +8,7 @@
     "js-yaml": ">=3.13.1",
     "markdown-it": ">=7.0.1",
     "markdown-it-attrs": "^2.3.2",
-    "vuepress": "^0.14.4",
+    "vuepress": "^1.4.0",
     "vuepress-plugin-autometa": "^0.1.10"
   }
 }
