@@ -398,7 +398,7 @@ an army made up of dark-skinned natives driven by a white military leader. White
 
 The parallels and similarities to the Book of Mormon are astounding. This [web page](https://cesletter.org/bom/46) outlines very clearly and simply just how phenomenally unlikely it is that so many common rare phrases and themes could be found between these books without the _Late War_ having had some influence on the Book of Mormon.
 
-ormer BYU Library Bibliographic Dept. Chairman and antique book specialist Rick Grunder states in his analysis of [The Late War (p.770)](https://www.cesletter.org/bom/48):
+Former BYU Library Bibliographic Dept. Chairman and antique book specialist Rick Grunder states in his analysis of [The Late War (p.770)](https://www.cesletter.org/bom/48):
 
 <IndentedQuote quote="The presence of Hebraisms and other striking parallels in a popular children’s textbook (Late War), on the other hand – so close to Joseph Smith in his youth – must sober our perspective." />
 
