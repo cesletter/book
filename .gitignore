@@ -1,3 +1,5 @@
 docs/.vuepress/dist/
 node_modules
 .tool-versions
+.DS_Store
+_release/
