@@ -65,7 +65,7 @@ James B. Allen, former BYU Professor and Assistant Church Historian [explains](h
   <li>The dates/his ages: The 1832 account states Joseph was 15-years-old while the other accounts state he was 14-years-old when he had the vision.</li>
   <li>The reason or motive for seeking divine help – Bible reading and conviction of sins, a revival, a desire to know if God exists, wanting to know which church to join – are not reported the same in each account.</li>
   <li>
-    Contrary to Joseph’s account, the historical record shows that there was no revival in Palmyra, New York in 1820. [FairMormon concedes](https://cesletter.org/first-vision/10):
+    Contrary to Joseph’s account, the historical record shows that there was no revival in Palmyra, New York in 1820. <a href="https://www.cesletter.org/first-vision/10" target="_blank" rel="noopener noreferrer">FairMormon concedes</a>:
     <IndentedQuote quote="While these revivals did not occur in Palmyra itself, their mention in the local newspaper would have given Joseph Smith the sense that there was substantial revival activity in the region." className="py-3" />
     There was one in 1817 and there was another in 1824. There are records from his brother, William Smith, and his mother, Lucy Mack Smith, both stating that the family joined Presbyterianism after Alvin’s death 11 in November 1823 despite Joseph Smith claiming in the official 1838 account 12 that they joined in 1820 (3 years before Alvin Smith’s death).
   </li>
