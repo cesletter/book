@@ -8,6 +8,6 @@ meta:
 <TitlePage
   title="CES LETTER"
   subtitle="MY SEARCH FOR ANSWERS TO MORMON DOUBTS"
-  author="Jeremy T. Runnels"
+  author="Jeremy T. Runnells"
   dates="April 2013, Updated October 2017"
 />
