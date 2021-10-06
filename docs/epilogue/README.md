@@ -19,7 +19,7 @@ To view a list of each one of the official Church essays on lds.org verifying ma
 
 For answers to the most common questions, please visit:
 
-[CESLETTER.ORG/FAQ](http://cesletter.org/faq)
+[CESLETTER.ORG/FAQ](http://cesletter.org/faqs)
 
 #### RESOURCES:
 
@@ -38,7 +38,7 @@ For common attacks and lies about _CES Letter_ and Jeremy Runnells, please visit
 
 To read Jeremy’s responses to unofficial Mormon apologetic attacks and claims, please visit:
 
-[CESLETTER.ORG/DEBUNKING](https://cesletter.org/debunking)
+[CESLETTER.ORG/DEBUNKING](https://cesletter.org/debunkings)
 
 #### JEREMY’S MORMON STORIES INTERVIEW:
 
