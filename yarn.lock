@@ -3530,10 +3530,10 @@ lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
 
-lodash.defaultsdeep@4.6.0:
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/lodash.defaultsdeep/-/lodash.defaultsdeep-4.6.0.tgz#bec1024f85b1bd96cbea405b23c14ad6443a6f81"
-  integrity sha1-vsECT4WxvZbL6kBbI8FK1kQ6b4E=
+lodash.defaultsdeep@4.6.1:
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/lodash.defaultsdeep/-/lodash.defaultsdeep-4.6.1.tgz#512e9bd721d272d94e3d3a63653fa17516741ca6"
+  integrity sha512-3j8wdDzYuWO3lM3Reg03MuQR957t287Rpcxp1njpEa8oDrikb+FwGdW3n+FELh/A6qib6yPit0j/pv9G/yeAqA==
 
 lodash.findindex@4.6.0:
   version "4.6.0"
@@ -3565,6 +3565,16 @@ lodash.templatesettings@^4.0.0:
 lodash.throttle@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
+
+lodash.trimend@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/lodash.trimend/-/lodash.trimend-4.5.1.tgz#12804437286b98cad8996b79414e11300114082f"
+  integrity sha1-EoBENyhrmMrYmWt5QU4RMAEUCC8=
+
+lodash.trimstart@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/lodash.trimstart/-/lodash.trimstart-4.5.1.tgz#8ff4dec532d82486af59573c39445914e944a7f1"
+  integrity sha1-j/TexTLYJIavWVc8OURZFOlEp/E=
 
 lodash.uniq@^4.5.0:
   version "4.5.0"
@@ -5927,14 +5937,16 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-plugin-autometa@^0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-autometa/-/vuepress-plugin-autometa-0.1.10.tgz#8204a3d3381a38fccc90a0fd1df26ff31e3ed3b7"
-  integrity sha512-0o5sOjYf6LiaBU5F5ei9k556kyZjRVub9OpYNq+k97eefcHKPTCI8dr3qF2bOAE65h/SOkPadnjnhgvtcCzOrQ==
+vuepress-plugin-autometa@^0.1.13:
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-autometa/-/vuepress-plugin-autometa-0.1.13.tgz#44a63e9fefb4feff88c00678d4d2b3d8e413209d"
+  integrity sha512-yhd8smLhbCO0+gc3FRNjOyffdGl12gUkv60UqdtEUCojEy4s7APDJ2pt85cSLASMdnWaY7EcMibMRkqeUOVAKg==
   dependencies:
-    lodash.defaultsdeep "4.6.0"
+    lodash.defaultsdeep "4.6.1"
     lodash.findindex "4.6.0"
     lodash.isempty "4.4.0"
+    lodash.trimend "^4.5.1"
+    lodash.trimstart "^4.5.1"
     remove-markdown "0.3.0"
     striptags "3.1.1"
 

@@ -9,6 +9,6 @@
     "markdown-it": ">=7.0.1",
     "markdown-it-attrs": "^2.3.2",
     "vuepress": "^0.14.4",
-    "vuepress-plugin-autometa": "^0.1.10"
+    "vuepress-plugin-autometa": "^0.1.13"
   }
 }
