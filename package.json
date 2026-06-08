@@ -1,14 +1,25 @@
 {
+  "type": "module",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "astro dev",
+    "build": "npm run index:retrieval && astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "typecheck": "astro check && tsc --noEmit",
+    "index:retrieval": "tsx scripts/write-retrieval-index.ts",
+    "postbuild": "node scripts/build-search-index.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@netlify/functions": "^4.2.5",
+    "astro": "^5.15.4",
+    "markdown-it": "^14.1.0",
+    "pagefind": "^1.4.0",
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "braces": ">=2.3.1",
-    "js-yaml": ">=3.13.1",
-    "markdown-it": ">=7.0.1",
-    "markdown-it-attrs": "^2.3.2",
-    "vuepress": "^0.14.4",
-    "vuepress-plugin-autometa": "^0.1.10"
+    "@types/markdown-it": "^14.1.2",
+    "tsx": "^4.20.6",
+    "vitest": "^4.0.14"
   }
 }

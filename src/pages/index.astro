@@ -1,0 +1,17 @@
+---
+import { chapters } from "../content/chapters";
+import BookLayout from "../layouts/BookLayout.astro";
+import { loadRenderedChapter } from "../lib/chapter-content";
+
+const chapter = loadRenderedChapter(chapters[0]);
+---
+
+<BookLayout
+  title="CES Letter"
+  description={chapter.description}
+  ogImage={chapter.ogImage}
+  canonicalPath={chapter.path}
+  activeSlug={chapter.slug}
+>
+  <Fragment set:html={chapter.html} />
+</BookLayout>

@@ -1,0 +1,26 @@
+---
+import { chapters } from "../content/chapters";
+import BookLayout from "../layouts/BookLayout.astro";
+import { loadRenderedChapter } from "../lib/chapter-content";
+
+export function getStaticPaths() {
+  return chapters
+    .filter((chapter) => chapter.slug)
+    .map((chapter) => ({
+      params: { slug: chapter.slug },
+      props: { chapter },
+    }));
+}
+
+const chapter = loadRenderedChapter(Astro.props.chapter);
+---
+
+<BookLayout
+  title={chapter.pageTitle}
+  description={chapter.description}
+  ogImage={chapter.ogImage}
+  canonicalPath={chapter.path}
+  activeSlug={chapter.slug}
+>
+  <Fragment set:html={chapter.html} />
+</BookLayout>
