@@ -1,0 +1,69 @@
+<section class="chat-widget" aria-label="CES Letter assistant">
+  <button class="chat-toggle" type="button" aria-expanded="false" aria-controls="chat-panel">
+    Ask
+  </button>
+  <div id="chat-panel" class="chat-panel" hidden>
+    <form id="chat-form" class="chat-form">
+      <label for="chat-question">Ask about the book</label>
+      <textarea id="chat-question" name="question" rows="3" required placeholder="What does the book say about..."></textarea>
+      <button type="submit">Ask</button>
+    </form>
+    <div id="chat-answer" class="chat-answer" aria-live="polite"></div>
+  </div>
+</section>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>(".chat-toggle");
+  const panel = document.querySelector<HTMLElement>("#chat-panel");
+  const form = document.querySelector<HTMLFormElement>("#chat-form");
+  const answer = document.querySelector<HTMLElement>("#chat-answer");
+
+  toggle?.addEventListener("click", () => {
+    const isOpen = panel?.hidden === false;
+    if (panel) {
+      panel.hidden = isOpen;
+    }
+    toggle.setAttribute("aria-expanded", String(!isOpen));
+  });
+
+  form?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    if (!answer) {
+      return;
+    }
+
+    const data = new FormData(form);
+    const question = String(data.get("question") ?? "").trim();
+    if (!question) {
+      return;
+    }
+
+    answer.textContent = "Searching the book...";
+
+    try {
+      const response = await fetch("/.netlify/functions/chat", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ question }),
+      });
+      const result = await response.json();
+      answer.innerHTML = `<p>${escapeHtml(result.answer ?? "No answer returned.")}</p>${renderCitations(result.citations ?? [])}`;
+    } catch {
+      answer.textContent = "The assistant is unavailable right now.";
+    }
+  });
+
+  function renderCitations(citations: Array<{ title: string; path: string; excerpt: string }>) {
+    if (!citations.length) {
+      return "";
+    }
+
+    return `<ol>${citations
+      .map((citation) => `<li><a href="${escapeHtml(citation.path)}">${escapeHtml(citation.title)}</a><blockquote>${escapeHtml(citation.excerpt)}</blockquote></li>`)
+      .join("")}</ol>`;
+  }
+
+  function escapeHtml(value: string) {
+    return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
+  }
+</script>

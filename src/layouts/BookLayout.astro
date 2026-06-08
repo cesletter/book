@@ -1,0 +1,102 @@
+---
+import { chapters, getNextChapter, getPreviousChapter } from "../content/chapters";
+import ChatWidget from "../components/ChatWidget.astro";
+import "../styles/global.css";
+
+type Props = {
+  title: string;
+  description: string;
+  ogImage: string;
+  canonicalPath: string;
+  activeSlug: string;
+};
+
+const { title, description, ogImage, canonicalPath, activeSlug } = Astro.props;
+const canonicalUrl = new URL(canonicalPath, "https://read.cesletter.org").toString();
+const previous = getPreviousChapter(activeSlug);
+const next = getNextChapter(activeSlug);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title === "CES Letter" ? title : `${title} | CES Letter`}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <aside class="sidebar" aria-label="Book chapters">
+        <a class="site-title" href="/">CES Letter</a>
+        <nav>
+          {chapters.map((chapter) => (
+            <a class:list={["sidebar-link", { active: chapter.slug === activeSlug }]} href={chapter.path}>
+              {chapter.title}
+            </a>
+          ))}
+        </nav>
+      </aside>
+
+      <main class="reader">
+        <div class="reader-tools" aria-label="Reader tools">
+          <label class="search-box">
+            <span>Search</span>
+            <input id="pagefind-search" type="search" autocomplete="off" placeholder="Search the book" />
+          </label>
+          <div id="pagefind-results" class="search-results" aria-live="polite"></div>
+        </div>
+
+        <article class="content" data-pagefind-body>
+          <slot />
+        </article>
+
+        <nav class="chapter-nav" aria-label="Chapter navigation">
+          {previous ? <a href={previous.path} rel="prev">Previous: {previous.title}</a> : <span></span>}
+          {next ? <a href={next.path} rel="next">Next: {next.title}</a> : <span></span>}
+        </nav>
+      </main>
+    </div>
+
+    <ChatWidget />
+    <script>
+      const input = document.querySelector<HTMLInputElement>("#pagefind-search");
+      const results = document.querySelector<HTMLElement>("#pagefind-results");
+      type PagefindResult = { data: () => Promise<{ url: string; meta: { title?: string }; excerpt: string }> };
+      type PagefindModule = { search: (query: string) => Promise<{ results: PagefindResult[] }> };
+      let pagefind: PagefindModule | undefined;
+
+      input?.addEventListener("input", async () => {
+        const query = input.value.trim();
+        if (!results) {
+          return;
+        }
+
+        if (query.length < 2) {
+          results.innerHTML = "";
+          return;
+        }
+
+        const pagefindPath = "/pagefind/pagefind.js";
+        const loadedPagefind: PagefindModule = pagefind ?? ((await import(/* @vite-ignore */ pagefindPath)) as PagefindModule);
+        pagefind = loadedPagefind;
+        const search = await loadedPagefind.search(query);
+        const rows = await Promise.all(search.results.slice(0, 6).map((result) => result.data()));
+
+        results.innerHTML = rows
+          .map((row) => `<div class="search-result"><a href="${escapeHtml(row.url)}">${escapeHtml(row.meta.title ?? row.url)}</a><p>${row.excerpt}</p></div>`)
+          .join("");
+      });
+
+      function escapeHtml(value: string) {
+        return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
+      }
+    </script>
+  </body>
+</html>

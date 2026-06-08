@@ -1,3 +1,6 @@
 [build]
-  command = "yarn docs:build"
-  publish = "docs/.vuepress/dist/"
+  command = "npm run build"
+  publish = "dist/"
+
+[functions]
+  directory = "netlify/functions"
